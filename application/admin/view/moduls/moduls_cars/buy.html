@@ -1,0 +1,91 @@
+{extend name='pub/modal'}
+{block name='content'}
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-add-form" action="buy" method="post">
+        <input type="hidden" name="car_id" value="{$cars.car_id}">
+            <div class="layui-form-item">
+                <label class="layui-form-label">车牌号码</label>
+                <div class="layui-input-block">
+                    <input type="text" name="car_no" readonly="readonly" class="layui-input" value="{$cars.car_no}">
+                </div>
+            </div>
+			
+			<div class="layui-form-item">
+			    <label class="layui-form-label">保险名称</label>
+			    <div class="layui-input-block">
+			        <input type="text" name="record_reason" class="layui-input">
+			    </div>
+			</div>
+
+            <div class="layui-form-item">
+                    <label class="layui-form-label">经手人</label>
+                    <div class="layui-input-block">
+                        <select lay-filter="aihao" name="record_people" lay-search lay-verify="required">
+                            <option value="">选择经手人</option>
+                            {volist name='members' id='vo'}
+                                <option value="{$vo.id}">{$vo.member_name}</option>
+                            {/volist}
+                        </select>
+                    </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">购买日期</label>
+                <div class="layui-input-block">
+                    <input type="text" name="record_time" id="record_time" readonly="readonly" class="layui-input">
+                </div>
+            </div>
+			
+			<div class="layui-form-item">
+			    <label class="layui-form-label">到期日期</label>
+			    <div class="layui-input-block">
+			        <input type="text" lay-verify="required" placeholder="yyyy-MM-dd" name="record_end_time" id="record_end_time" autocomplete="off"  class="layui-input">
+			    </div>
+			</div>
+			
+			<div class="layui-form-item">
+			        <label class="layui-form-label">资金类型</label>
+			        <div class="layui-input-block">
+			            <select lay-filter="aihao" name="record_type" lay-verify="required">
+			                <option value="0">付款</option>
+			            </select>
+			        </div>
+			</div>
+			
+			<div class="layui-form-item">
+			    <label class="layui-form-label">金额</label>
+			    <div class="layui-input-block">
+			        <input type="text" name="record_money" lay-verify="required" class="layui-input" value="0">
+			    </div>
+			</div>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button style="margin-left: 30%" class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+	layui.use('laydate', function(){
+	  var laydate = layui.laydate;
+	laydate.render({
+	  elem: '#record_time'
+	  ,trigger: 'click'
+	  ,type: 'date'
+	});
+	laydate.render({
+	  elem: '#record_end_time'
+	  ,trigger: 'click'
+	  ,type: 'date'
+	});
+	})
+</script>
+{/block}
+
+
+
+

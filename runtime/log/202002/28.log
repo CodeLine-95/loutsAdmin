@@ -1,0 +1,189 @@
+---------------------------------------------------------------
+
+[2020-02-28T07:39:17+08:00] 120.244.234.39 GET mis.mbacms.com/admin/report/get_echarts_profity?data=
+[ error ] [2]bcdiv(): Division by zero
+---------------------------------------------------------------
+
+[2020-02-28T09:34:03+08:00] 1.202.254.70 GET mis.mbacms.com/admin/report/get_echarts_profity?data=
+[ error ] [2]bcdiv(): Division by zero
+---------------------------------------------------------------
+
+[2020-02-28T13:51:47+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-118&ordertype=allot
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T16:34:48+08:00] 1.202.254.70 GET mis.mbacms.com/admin/pub/selectgoods.html
+[ error ] [8]未定义数组索引: or_id
+---------------------------------------------------------------
+
+[2020-02-28T17:08:25+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:27+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:27+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:29+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:30+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:30+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:30+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:35+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:36+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:37+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:37+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:08:37+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:10:10+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:10:10+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:10:11+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:10:11+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:22+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:23+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:23+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:23+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:25+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:25+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:25+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:25+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:14:26+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200227-1-117&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:20:45+08:00] 124.126.217.30 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-121&ordertype=sales
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:43+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200223-1-1&ordertype=sales_return
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:43+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200223-1-1&ordertype=sales_return
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:44+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200223-1-1&ordertype=sales_return
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:49+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:49+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:21:49+08:00] 1.202.254.70 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-119&ordertype=procure
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:57:22+08:00] 124.126.217.30 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-120&ordertype=stocks_take
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:57:23+08:00] 124.126.217.30 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-120&ordertype=stocks_take
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T17:57:48+08:00] 124.126.217.30 POST mis.mbacms.com/admin/pub/selectBatchGoods?or_id=VM_20200228-4-120&ordertype=stocks_take
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+
+[2020-02-28T18:29:42+08:00] 1.202.254.70 POST mis.mbacms.com/admin/goods/addGoods
+[ error ] [8]iconv(): Detected an incomplete multibyte character in input string
+[ error ] [8]iconv(): Detected an incomplete multibyte character in input string

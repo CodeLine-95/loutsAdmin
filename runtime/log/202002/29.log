@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+
+[2020-02-29T22:20:01+08:00] 120.244.234.39 POST mis.mbacms.com/admin/goods/addGoods
+[ error ] [8]iconv(): Detected an incomplete multibyte character in input string
+[ error ] [8]iconv(): Detected an incomplete multibyte character in input string
+[ error ] [8]iconv(): Detected an incomplete multibyte character in input string

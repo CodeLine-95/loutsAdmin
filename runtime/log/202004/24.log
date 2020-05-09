@@ -1,0 +1,219 @@
+---------------------------------------------------------------
+
+[2020-04-24T13:24:40+08:00] 221.221.145.131 GET pt.mbacms.com/admin/index/welcome.html
+[运行时间：0.023193s] [吞吐率：43.12req/s] [内存消耗：2,812.23kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/index/welcome.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-24T13:24:40+08:00] 221.221.145.131 GET pt.mbacms.com/admin/login/login.html
+[运行时间：0.022982s] [吞吐率：43.51req/s] [内存消耗：2,698.47kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/index/welcome.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-24T13:24:41+08:00] 221.221.145.131 GET pt.mbacms.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.016869s] [吞吐率：59.28req/s] [内存消耗：1,795.23kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-24T13:24:44+08:00] 221.221.145.131 GET pt.mbacms.com/admin/index/index.html
+[运行时间：0.022724s] [吞吐率：44.01req/s] [内存消耗：2,813.70kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-24T13:24:44+08:00] 221.221.145.131 GET pt.mbacms.com/admin/login/login.html
+[运行时间：0.022538s] [吞吐率：44.37req/s] [内存消耗：2,698.47kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-24T13:24:44+08:00] 221.221.145.131 GET pt.mbacms.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.015920s] [吞吐率：62.81req/s] [内存消耗：1,795.45kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=digrvno51smgo4h7s8b3hhslg5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-24T13:36:16+08:00] 223.166.151.199 GET pt.mbacms.com/admin/index/index.html
+[运行时间：0.023840s] [吞吐率：41.95req/s] [内存消耗：2,810.76kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-24T13:36:20+08:00] 223.166.151.191 GET pt.mbacms.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.016341s] [吞吐率：61.20req/s] [内存消耗：1,794.78kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) 			Chrome/55.0.2883.95 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-24T14:42:36+08:00] 106.14.145.253 GET pt.mbacms.com/
+[运行时间：0.015444s] [吞吐率：64.75req/s] [内存消耗：1,873.95kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-24T14:42:36+08:00] 106.14.145.253 GET pt.mbacms.com/index/login/login.html
+[运行时间：0.022182s] [吞吐率：45.08req/s] [内存消耗：2,627.14kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]

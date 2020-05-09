@@ -1,0 +1,2058 @@
+---------------------------------------------------------------
+
+[2020-03-15T14:33:55+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.028392s] [吞吐率：35.22req/s] [内存消耗：3,001.02kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:33:55+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.041275s] [吞吐率：24.23req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:33:55+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.031280s] [吞吐率：31.97req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:33:55+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.038625s] [吞吐率：25.89req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:34:11+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.036769s] [吞吐率：27.20req/s] [内存消耗：3,509.53kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:34:11+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.027412s] [吞吐率：36.48req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:37:26+08:00] 169.197.108.38 GET 47.95.1.68/
+[运行时间：0.015060s] [吞吐率：66.40req/s] [内存消耗：1,874.43kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T14:37:27+08:00] 169.197.108.38 GET 47.95.1.68/index/login/login.html
+[运行时间：0.021970s] [吞吐率：45.52req/s] [内存消耗：2,627.55kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'https://47.95.1.68/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:37:45+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.029015s] [吞吐率：34.46req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:37:45+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.041131s] [吞吐率：24.31req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:37:46+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.027148s] [吞吐率：36.84req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:37:46+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.038338s] [吞吐率：26.08req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:37:48+08:00] 120.244.234.169 GET mis.mbacms.com/admin/sales/addsales.html
+[运行时间：0.035527s] [吞吐率：28.15req/s] [内存消耗：3,416.02kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/addSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:37:48+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200313-4-196&page=1&limit=10
+[运行时间：0.027397s] [吞吐率：36.50req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/addsales.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200313-4-196',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:05+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.028250s] [吞吐率：35.40req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:05+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.040704s] [吞吐率：24.57req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:05+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.026122s] [吞吐率：38.28req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:05+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.037103s] [吞吐率：26.95req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:06+08:00] 120.244.234.169 GET mis.mbacms.com/admin/sales/addsales.html
+[运行时间：0.034402s] [吞吐率：29.07req/s] [内存消耗：3,416.02kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/addSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:06+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200313-4-196&page=1&limit=10
+[运行时间：0.028357s] [吞吐率：35.26req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/addsales.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200313-4-196',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:16+08:00] 120.244.234.169 GET mis.mbacms.com/admin/sales/addsales.html
+[运行时间：0.036081s] [吞吐率：27.72req/s] [内存消耗：3,416.02kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/addSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:16+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200313-4-196&page=1&limit=10
+[运行时间：0.026472s] [吞吐率：37.78req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/addsales.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200313-4-196',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:18+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.029463s] [吞吐率：33.94req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:18+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.042001s] [吞吐率：23.81req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:18+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.026315s] [吞吐率：38.00req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:18+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.038277s] [吞吐率：26.13req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.029215s] [吞吐率：34.23req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.041819s] [吞吐率：23.91req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.033421s] [吞吐率：29.92req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.040239s] [吞吐率：24.85req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.028923s] [吞吐率：34.57req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.042915s] [吞吐率：23.30req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.026966s] [吞吐率：37.08req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.038527s] [吞吐率：25.96req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.027770s] [吞吐率：36.01req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:19+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.040237s] [吞吐率：24.85req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.027765s] [吞吐率：36.02req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.033191s] [吞吐率：30.13req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.027396s] [吞吐率：36.50req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.041247s] [吞吐率：24.24req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.027505s] [吞吐率：36.36req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.039273s] [吞吐率：25.46req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.028337s] [吞吐率：35.29req/s] [内存消耗：3,001.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.041356s] [吞吐率：24.18req/s] [内存消耗：3,407.81kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.030969s] [吞吐率：32.29req/s] [内存消耗：3,376.30kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:20+08:00] 120.244.234.169 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.037531s] [吞吐率：26.64req/s] [内存消耗：2,828.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:22+08:00] 120.244.234.169 GET mis.mbacms.com/admin/sales/addsales.html
+[运行时间：0.036112s] [吞吐率：27.69req/s] [内存消耗：3,416.02kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/addSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:22+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200313-4-196&page=1&limit=10
+[运行时间：0.027190s] [吞吐率：36.78req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/addsales.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200313-4-196',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:38+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.039620s] [吞吐率：25.24req/s] [内存消耗：3,746.13kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=1|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:38+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.027170s] [吞吐率：36.81req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:38:52+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.038532s] [吞吐率：25.95req/s] [内存消耗：3,746.13kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=1|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:38:52+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.026848s] [吞吐率：37.25req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:06+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.039455s] [吞吐率：25.35req/s] [内存消耗：3,746.45kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.027043s] [吞吐率：36.98req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.038172s] [吞吐率：26.20req/s] [内存消耗：3,509.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.026773s] [吞吐率：37.35req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.035934s] [吞吐率：27.83req/s] [内存消耗：3,509.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.026810s] [吞吐率：37.30req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:07+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.036519s] [吞吐率：27.38req/s] [内存消耗：3,509.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:08+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.026942s] [吞吐率：37.12req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:08+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.038453s] [吞吐率：26.01req/s] [内存消耗：3,509.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:08+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.026790s] [吞吐率：37.33req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:08+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/addstorage.html
+[运行时间：0.035877s] [吞吐率：27.87req/s] [内存消耗：3,509.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/addStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'curUser',
+  11 => 'mcategory',
+  12 => 'member',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:08+08:00] 120.244.234.169 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200314-1-198&page=1&limit=10
+[运行时间：0.027047s] [吞吐率：36.97req/s] [内存消耗：2,889.92kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/addstorage.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200314-1-198',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T14:39:40+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/storagelist.html
+[运行时间：0.026262s] [吞吐率：38.08req/s] [内存消耗：2,816.28kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/storageList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T14:39:40+08:00] 120.244.234.169 GET mis.mbacms.com/admin/storage/storageListJson?page=1&limit=10
+[运行时间：0.027091s] [吞吐率：36.91req/s] [内存消耗：2,953.11kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-15T15:12:52+08:00] 47.101.200.30 GET mis.mbacms.com/
+[运行时间：0.017226s] [吞吐率：58.05req/s] [内存消耗：1,874.24kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T15:12:52+08:00] 47.101.200.30 GET mis.mbacms.com/index/login/login.html
+[运行时间：0.022367s] [吞吐率：44.71req/s] [内存消耗：2,627.40kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T15:15:34+08:00] 47.101.193.104 GET app.mbacms.com/
+[运行时间：0.016800s] [吞吐率：59.52req/s] [内存消耗：1,874.24kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'app.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T15:15:34+08:00] 47.101.193.104 GET app.mbacms.com/index/login/login.html
+[运行时间：0.023666s] [吞吐率：42.25req/s] [内存消耗：2,627.40kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'app.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T15:37:18+08:00] 77.88.47.1 GET mbacms.com/
+[运行时间：0.015987s] [吞吐率：62.55req/s] [内存消耗：1,874.69kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-language' => 'ru, uk;q=0.8, be;q=0.8, en;q=0.7, *;q=0.01',
+  'accept-encoding' => 'gzip,deflate',
+  'from' => 'support@search.yandex.ru',
+  'user-agent' => 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)',
+  'connection' => 'Keep-Alive',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T15:37:31+08:00] 141.8.143.152 GET mbacms.com/index/login/login.html
+[运行时间：0.022369s] [吞吐率：44.70req/s] [内存消耗：2,627.84kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-language' => 'ru, uk;q=0.8, be;q=0.8, en;q=0.7, *;q=0.01',
+  'accept-encoding' => 'gzip,deflate',
+  'from' => 'support@search.yandex.ru',
+  'user-agent' => 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)',
+  'connection' => 'Keep-Alive',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T17:05:41+08:00] 120.78.225.124 GET /
+[运行时间：0.015911s] [吞吐率：62.85req/s] [内存消耗：1,873.16kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T18:43:30+08:00] 66.249.79.42 GET mbacms.com/
+[运行时间：0.015959s] [吞吐率：62.66req/s] [内存消耗：1,875.45kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate,br',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'from' => 'googlebot(at)googlebot.com',
+  'accept' => 'text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'amp-cache-transform' => 'google;v="1..3"',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T18:43:31+08:00] 66.249.79.48 GET mbacms.com/index/login/login.html
+[运行时间：0.023621s] [吞吐率：42.34req/s] [内存消耗：2,628.63kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip,deflate,br',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'from' => 'googlebot(at)googlebot.com',
+  'accept' => 'text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=t56m0fbipd0jefbu2l1f26gsr2',
+  'amp-cache-transform' => 'google;v="1..3"',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T19:36:36+08:00] 47.101.193.1 GET 47.95.1.68/
+[运行时间：0.016542s] [吞吐率：60.45req/s] [内存消耗：1,874.25kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '47.95.1.68',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-15T19:36:36+08:00] 47.101.193.1 GET 47.95.1.68/index/login/login.html
+[运行时间：0.024016s] [吞吐率：41.64req/s] [内存消耗：2,627.41kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '47.95.1.68',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-03-15T22:15:21+08:00] 119.23.139.140 GET /
+[运行时间：0.016690s] [吞吐率：59.92req/s] [内存消耗：1,873.16kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)

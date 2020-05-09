@@ -1,0 +1,84 @@
+{extend name='pub/modal'}
+{block name='content'}
+<style type="text/css" media="all">
+	.layui-image{
+		display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px solid #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.layui-image img{
+	    height: 100%;
+	    display: inline-block;
+	    vertical-align: top;
+	}
+	
+	.fc-files {
+	    display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    cursor: pointer;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px dashed #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.ivu-icon {
+	    display: inline-block;
+	    font-family: Ionicons;
+	    speak: none;
+	    font-style: normal;
+	    font-weight: 400;
+	    font-variant: normal;
+	    text-transform: none;
+	    text-rendering: auto;
+	    line-height: 1;
+	    -webkit-font-smoothing: antialiased;
+	    -moz-osx-font-smoothing: grayscale;
+	}
+</style>
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-edit-form" action="audit" method="post">
+	        <input type="hidden" name="id" value="{$field.id}">
+	        <input type="hidden" name="repair_order_id" value="{$field.repair_order_id}">
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">审批</label>
+                <div class="layui-input-block">
+                    <input type="radio" name="repair_status" value="1" title="处理中" checked>
+                    <input type="radio" name="repair_status" value="2" title="已完成">
+                </div>
+            </div>
+            
+            <hr>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+<!--                     <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button> -->
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{/block}
+
+
+
+

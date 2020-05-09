@@ -1,0 +1,98 @@
+<?php
+namespace app\admin\controller\estate;
+// +----------------------------------------------------------------------
+// | LotusAdmin
+// +----------------------------------------------------------------------
+// | Copyright (c) 2006-2016 http://www.lotusadmin.top/ All rights reserved.
+// +----------------------------------------------------------------------
+// | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
+// +----------------------------------------------------------------------
+// | Author: wenhainan <qq 610176732>
+// +----------------------------------------------------------------------
+use think\Controller;
+use app\admin\controller\Base;
+use app\admin\model\UserLog;
+use org\Auth;
+use think\Validate;
+use think\Db;
+use think\Session;
+use service\UtilService as Util;
+use service\JsonService;
+use service\JsonService as Json;
+use service\UploadService as Upload;
+use service\FormBuilder as Form;
+use app\admin\model\estate\Enterprise as EnterpriseModel;
+use think\Request;
+use think\Hook;
+
+class Enterprise extends Base
+{
+    public function index()
+    {
+		$status=$this->request->param('status');
+		if($status=='') $status = 1;
+        return $this->fetch('index',['status'=>$status]);
+    }
+
+    public function listJson(){
+        $where=Util::getMore([
+            ['page',1],
+            ['limit',25],
+            ['enter_name',''],
+            ['excel',0],
+            ['order',''],
+            ['status',$this->request->param('status')]
+        ]);
+        return JsonService::successlayui(EnterpriseModel::EnterpriseList($where));
+    }
+	
+	//增加商品
+	public function add()
+	{
+		//$url = New Url($this->app);
+	    $field = [
+	                Form::input('enter_name','企业名称')->col(Form::col(24)),
+					Form::input('enter_short','企业简称')->col(Form::col(24)),
+					Form::input('enter_people','联系人')->col(8),
+	                Form::input('enter_phone','联系电话')->col(8),
+	                Form::input('enter_address','联系地址')->col(Form::col(24)),
+	                Form::radio('enter_status','状态',1)->options([['label'=>'启用','value'=>1],['label'=>'禁用','value'=>0]]),
+					Form::datepicker('enter_time','入驻日期',date('Y-m-d',time())),
+					Form::datepicker('enter_leave','离场日期'),
+					Form::text('enter_comment','企业简介')
+	            ];
+	            $form = Form::make_post_form('添加企业',$field,Url('estate.enterprise/save'),2);
+	            $this->assign(compact('form'));
+	            return $this->fetch('pub/form-builder');
+	}
+   
+/**
+	     * 保存新建的资源
+	     *
+	     * @param  \think\Request  $request
+	     * @return \think\Response
+	     */
+	    public function save(Request $request)
+	    {
+	        $data = Util::postMore([
+	            'enter_name',
+				'enter_short',
+	            ['enter_people'],
+	            ['enter_phone'],
+	            ['enter_address'],
+	            ['enter_status',1],
+	            ['enter_comment'],
+				['enter_time',0],
+				['enter_leave', 0]
+	        ],$request);
+	        if(!$data['enter_name']) return Json::fail('请输入企业名称');
+			if(!$data['enter_short']) return Json::fail('请输入企业简称');
+			if(!$data['enter_people']) return Json::fail('请输入企业联系人');
+			if(!$data['enter_phone']) return Json::fail('请输入企业联系电话');
+			if(!$data['enter_address']) return Json::fail('请输入企业的联系地址');
+	        
+	        $data['enter_time'] = strtotime($data['enter_time']);
+	        $res=EnterpriseModel::set($data);
+	        return Json::successful('添加企业成功!');
+	    }
+}

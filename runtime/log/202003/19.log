@@ -1,0 +1,3150 @@
+---------------------------------------------------------------
+
+[2020-03-19T23:30:39+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-232&ordertype=sales
+[运行时间：0.030684s] [吞吐率：32.59req/s] [内存消耗：2,808.90kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-232',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:30:43+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%AF%BB%E5%8D%A1%E5%99%A8&house_id=
+[运行时间：0.028237s] [吞吐率：35.41req/s] [内存消耗：2,989.55kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '读卡器',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:30:43+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%AF%BB%E5%8D%A1%E5%99%A8&house_id=
+[运行时间：0.028415s] [吞吐率：35.19req/s] [内存消耗：2,989.55kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '读卡器',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:30:44+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%AF%BB%E5%8D%A1%E5%99%A8&house_id=
+[运行时间：0.028913s] [吞吐率：34.59req/s] [内存消耗：2,989.55kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '读卡器',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:30:44+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%AF%BB%E5%8D%A1%E5%99%A8&house_id=
+[运行时间：0.028520s] [吞吐率：35.06req/s] [内存消耗：2,989.55kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '读卡器',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:30:50+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-233&ordertype=sales
+[运行时间：0.031092s] [吞吐率：32.16req/s] [内存消耗：2,809.77kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-233',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-234&ordertype=sales
+[运行时间：0.030821s] [吞吐率：32.45req/s] [内存消耗：2,812.16kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-234',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:10+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-238&ordertype=sales
+[运行时间：0.031370s] [吞吐率：31.88req/s] [内存消耗：2,808.96kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-238',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:16+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-239&ordertype=sales
+[运行时间：0.032777s] [吞吐率：30.51req/s] [内存消耗：2,809.72kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-239',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:25+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=8&limit=10
+[运行时间：0.027790s] [吞吐率：35.98req/s] [内存消耗：2,926.76kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '8',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:31:28+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-220&ordertype=sales
+[运行时间：0.030454s] [吞吐率：32.84req/s] [内存消耗：2,809.77kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-220',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:35+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-220&ordertype=sales
+[运行时间：0.031252s] [吞吐率：32.00req/s] [内存消耗：2,809.77kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-220',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:42+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200318-4-220
+[运行时间：0.033690s] [吞吐率：29.68req/s] [内存消耗：2,989.70kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-220',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/editSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'orders',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'verify_status',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:31:43+08:00] 120.244.234.181 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200318-4-220&page=1&limit=10
+[运行时间：0.029518s] [吞吐率：33.88req/s] [内存消耗：2,891.86kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200318-4-220',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-220',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:31:52+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%8C%B6%E6%9D%AF&house_id=
+[运行时间：0.029267s] [吞吐率：34.17req/s] [内存消耗：2,989.42kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '茶杯',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:32:29+08:00] 120.244.234.181 GET mis.mbacms.com/admin/goods/categorylist.html
+[运行时间：0.026689s] [吞吐率：37.47req/s] [内存消耗：2,892.34kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/categoryList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:32:29+08:00] 120.244.234.181 GET mis.mbacms.com/admin/goods/categoryListJson?page=1&limit=10
+[运行时间：0.030182s] [吞吐率：33.13req/s] [内存消耗：3,256.41kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/goods/categorylist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:32:53+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-221&ordertype=sales
+[运行时间：0.030494s] [吞吐率：32.79req/s] [内存消耗：2,808.95kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-221',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:32:59+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200318-4-221
+[运行时间：0.031953s] [吞吐率：31.30req/s] [内存消耗：2,989.70kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-221',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/editSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'orders',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'verify_status',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:32:59+08:00] 120.244.234.181 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200318-4-221&page=1&limit=10
+[运行时间：0.027586s] [吞吐率：36.25req/s] [内存消耗：2,891.17kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200318-4-221',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-221',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:05+08:00] 120.244.234.181 POST mis.mbacms.com/admin/sales/editSales?verify_status_old=0
+[运行时间：0.048389s] [吞吐率：20.67req/s] [内存消耗：3,403.36kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200318-4-221',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'origin' => 'https://mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '120',
+)
+[ info ] [ PARAM ] array (
+  'verify_status_old' => '0',
+  'or_id' => 'VM_20200318-4-221',
+  'or_house' => '3',
+  'or_user' => 'wanghu',
+  'or_contact' => '41',
+  'or_create_time' => '2020-01-04',
+  'or_verify_status' => '1',
+  'or_comment' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:07+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=8&limit=10
+[运行时间：0.028304s] [吞吐率：35.33req/s] [内存消耗：2,926.76kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '8',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:10+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%8C%B6%E6%9D%AF&house_id=
+[运行时间：0.028842s] [吞吐率：34.67req/s] [内存消耗：2,989.42kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '茶杯',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:13+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=&house_id=
+[运行时间：0.029727s] [吞吐率：33.64req/s] [内存消耗：2,996.19kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:16+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stockslist.html
+[运行时间：0.033609s] [吞吐率：29.75req/s] [内存消耗：3,305.73kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/stocksList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'storehouse',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:33:16+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10
+[运行时间：0.028574s] [吞吐率：35.00req/s] [内存消耗：2,995.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:16+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stockslist.html
+[运行时间：0.032887s] [吞吐率：30.41req/s] [内存消耗：3,305.73kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/stocksList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'storehouse',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:33:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10
+[运行时间：0.028161s] [吞吐率：35.51req/s] [内存消耗：2,995.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stockslist.html
+[运行时间：0.040069s] [吞吐率：24.96req/s] [内存消耗：3,305.73kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/stocksList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'storehouse',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:33:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10
+[运行时间：0.028924s] [吞吐率：34.57req/s] [内存消耗：2,995.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stockslist.html
+[运行时间：0.032544s] [吞吐率：30.73req/s] [内存消耗：3,305.73kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/stocksList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'storehouse',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:33:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10
+[运行时间：0.029233s] [吞吐率：34.21req/s] [内存消耗：2,995.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:27+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-221&ordertype=sales
+[运行时间：0.030867s] [吞吐率：32.40req/s] [内存消耗：2,808.98kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-221',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:33:35+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.029163s] [吞吐率：34.29req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:57+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.028583s] [吞吐率：34.99req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:58+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.028552s] [吞吐率：35.02req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:59+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.029247s] [吞吐率：34.19req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:59+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.031158s] [吞吐率：32.09req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:33:59+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.027805s] [吞吐率：35.96req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:34:04+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.029041s] [吞吐率：34.43req/s] [内存消耗：2,991.53kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:34:12+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storagelist.html
+[运行时间：0.027035s] [吞吐率：36.99req/s] [内存消耗：2,815.55kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/storageList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:34:12+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=1&limit=10
+[运行时间：0.029313s] [吞吐率：34.11req/s] [内存消耗：2,956.89kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:34:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=3&limit=10
+[运行时间：0.029931s] [吞吐率：33.41req/s] [内存消耗：2,956.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:34:20+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-175&ordertype=procure
+[运行时间：0.035386s] [吞吐率：28.26req/s] [内存消耗：3,266.56kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-175',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:34:29+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-167&ordertype=procure
+[运行时间：0.052799s] [吞吐率：18.94req/s] [内存消耗：3,266.27kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-167',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:34:32+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=4&limit=10
+[运行时间：0.029811s] [吞吐率：33.54req/s] [内存消耗：2,957.20kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '4',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:34:35+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-164&ordertype=procure
+[运行时间：0.036573s] [吞吐率：27.34req/s] [内存消耗：3,265.85kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-164',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:34:38+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-162&ordertype=procure
+[运行时间：0.052378s] [吞吐率：19.09req/s] [内存消耗：3,267.04kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-162',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:34:48+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-159&ordertype=procure
+[运行时间：0.036778s] [吞吐率：27.19req/s] [内存消耗：3,265.83kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-159',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:35:07+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-156&ordertype=procure
+[运行时间：0.041675s] [吞吐率：24.00req/s] [内存消耗：3,266.59kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-156',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:35:21+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-159&ordertype=procure
+[运行时间：0.034625s] [吞吐率：28.88req/s] [内存消耗：3,265.83kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-159',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:35:23+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-157&ordertype=procure
+[运行时间：0.035337s] [吞吐率：28.30req/s] [内存消耗：3,265.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-157',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:35:35+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-157&ordertype=procure
+[运行时间：0.036600s] [吞吐率：27.32req/s] [内存消耗：3,265.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-157',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:36:23+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E9%A9%AC%E6%A1%B6&house_id=
+[运行时间：0.028496s] [吞吐率：35.09req/s] [内存消耗：2,990.50kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '马桶',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:36:54+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-223&ordertype=sales
+[运行时间：0.032417s] [吞吐率：30.85req/s] [内存消耗：2,809.79kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-223',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:36:57+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-221&ordertype=sales
+[运行时间：0.032125s] [吞吐率：31.13req/s] [内存消耗：2,808.98kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-221',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:37:16+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-162&ordertype=procure
+[运行时间：0.034768s] [吞吐率：28.76req/s] [内存消耗：3,267.04kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-162',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:37:20+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-159&ordertype=procure
+[运行时间：0.034194s] [吞吐率：29.24req/s] [内存消耗：3,265.83kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-159',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:37:23+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200312-7-157&ordertype=procure
+[运行时间：0.034963s] [吞吐率：28.60req/s] [内存消耗：3,265.86kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200312-7-157',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:37:33+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=5&limit=10
+[运行时间：0.028846s] [吞吐率：34.67req/s] [内存消耗：2,951.58kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '5',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:37:39+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200306-7-146&ordertype=procure
+[运行时间：0.036163s] [吞吐率：27.65req/s] [内存消耗：3,265.79kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200306-7-146',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:37:42+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=1&limit=10
+[运行时间：0.027693s] [吞吐率：36.11req/s] [内存消耗：2,956.89kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:37:45+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/storageListJson?page=5&limit=10
+[运行时间：0.028365s] [吞吐率：35.25req/s] [内存消耗：2,951.58kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '5',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:37:47+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200306-7-146&ordertype=procure
+[运行时间：0.035418s] [吞吐率：28.23req/s] [内存消耗：3,265.79kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200306-7-146',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:38:12+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stocksListJson?page=1&limit=10&category=&goodsname=%E8%80%83%E5%8B%A4%E6%89%93%E5%8D%A1%E6%9C%BA&house_id=
+[运行时间：0.028113s] [吞吐率：35.57req/s] [内存消耗：2,989.60kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'category' => '',
+  'goodsname' => '考勤打卡机',
+  'house_id' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:38:35+08:00] 120.244.234.181 GET mis.mbacms.com/admin/storage/seeOrder.html?or_id=VM_20200306-7-146&ordertype=procure
+[运行时间：0.034277s] [吞吐率：29.17req/s] [内存消耗：3,265.79kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/storage/storagelist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200306-7-146',
+  'ordertype' => 'procure',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:38:57+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=8&limit=10&start=&or_id=&or_shop=&end=
+[运行时间：0.028249s] [吞吐率：35.40req/s] [内存消耗：2,926.99kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '8',
+  'limit' => '10',
+  'start' => '',
+  'or_id' => '',
+  'or_shop' => '',
+  'end' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:00+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200318-4-220&ordertype=sales
+[运行时间：0.032836s] [吞吐率：30.45req/s] [内存消耗：2,809.77kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200318-4-220',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:04+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.031464s] [吞吐率：31.78req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.027432s] [吞吐率：36.45req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.031899s] [吞吐率：31.35req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.027713s] [吞吐率：36.08req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.029605s] [吞吐率：33.78req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.027790s] [吞吐率：35.98req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:05+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.032894s] [吞吐率：30.40req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:06+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.027228s] [吞吐率：36.73req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:12+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200319-4-312&ordertype=sales
+[运行时间：0.030112s] [吞吐率：33.21req/s] [内存消耗：2,809.01kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200319-4-312',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:17+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200319-4-312&ordertype=sales
+[运行时间：0.033584s] [吞吐率：29.78req/s] [内存消耗：2,809.01kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200319-4-312',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:29+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200319-4-312
+[运行时间：0.032402s] [吞吐率：30.86req/s] [内存消耗：2,989.76kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200319-4-312',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/editSales.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'orders',
+  7 => 'members',
+  8 => 'user',
+  9 => 'house',
+  10 => 'verify_status',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:39:29+08:00] 120.244.234.181 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200319-4-312&page=1&limit=10
+[运行时间：0.027419s] [吞吐率：36.47req/s] [内存消耗：2,891.18kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200319-4-312',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200319-4-312',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:32+08:00] 120.244.234.181 POST mis.mbacms.com/admin/sales/editSales?verify_status_old=1
+[运行时间：0.036912s] [吞吐率：27.09req/s] [内存消耗：3,200.73kb] [文件加载：86]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/editSales.html?or_id=VM_20200319-4-312',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'origin' => 'https://mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '191',
+)
+[ info ] [ PARAM ] array (
+  'verify_status_old' => '1',
+  'or_id' => 'VM_20200319-4-312',
+  'or_house' => '3',
+  'or_user' => 'wanghu',
+  'or_contact' => '7',
+  'or_create_time' => '2020-03-19',
+  'or_verify_status' => '1',
+  'or_comment' => '测试出库，将退回',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:36+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10&start=&or_id=&or_shop=&end=
+[运行时间：0.033137s] [吞吐率：30.18req/s] [内存消耗：2,926.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'start' => '',
+  'or_id' => '',
+  'or_shop' => '',
+  'end' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:37+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10&start=&or_id=&or_shop=&end=
+[运行时间：0.031049s] [吞吐率：32.21req/s] [内存消耗：2,926.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'start' => '',
+  'or_id' => '',
+  'or_shop' => '',
+  'end' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:37+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10&start=&or_id=&or_shop=&end=
+[运行时间：0.029277s] [吞吐率：34.16req/s] [内存消耗：2,926.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'start' => '',
+  'or_id' => '',
+  'or_shop' => '',
+  'end' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:39:37+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10&start=&or_id=&or_shop=&end=
+[运行时间：0.028647s] [吞吐率：34.91req/s] [内存消耗：2,926.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+  'start' => '',
+  'or_id' => '',
+  'or_shop' => '',
+  'end' => '',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:40:50+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.032100s] [吞吐率：31.15req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:40:50+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.029471s] [吞吐率：33.93req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.032482s] [吞吐率：30.79req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.028121s] [吞吐率：35.56req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.032251s] [吞吐率：31.01req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/saleslist.html
+[运行时间：0.032375s] [吞吐率：30.89req/s] [内存消耗：3,194.28kb] [文件加载：87]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/salesList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+  6 => 'shops',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.028363s] [吞吐率：35.26req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:40:51+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/salesListJson?page=1&limit=10
+[运行时间：0.030225s] [吞吐率：33.09req/s] [内存消耗：2,926.75kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:40:53+08:00] 120.244.234.181 GET mis.mbacms.com/admin/sales/seeOrder.html?or_id=VM_20200319-4-312&ordertype=sales
+[运行时间：0.031631s] [吞吐率：31.61req/s] [内存消耗：2,809.01kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/sales/saleslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200319-4-312',
+  'ordertype' => 'sales',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/sales/seeOrder.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'data',
+  7 => 'items',
+  8 => 'totals',
+  9 => 'verify_status',
+  10 => 'delivery',
+  11 => 'print_date',
+  12 => 'title',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:41:11+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/decreaselist.html
+[运行时间：0.028487s] [吞吐率：35.10req/s] [内存消耗：2,949.80kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/decreaseList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:41:11+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/decreaseListJson?page=1&limit=10
+[运行时间：0.028318s] [吞吐率：35.31req/s] [内存消耗：2,993.31kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/decreaselist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:41:14+08:00] 120.244.234.181 GET mis.mbacms.com/admin/stocks/stockstake.html
+[运行时间：0.038166s] [吞吐率：26.20req/s] [内存消耗：3,392.65kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/stocks/stocksTake.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'ctime',
+  7 => 'user',
+  8 => 'house',
+  9 => 'curUser',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:41:14+08:00] 120.244.234.181 GET mis.mbacms.com/admin/pub/ItemJson?or_id=VM_20200228-4-120&page=1&limit=10
+[运行时间：0.028648s] [吞吐率：34.91req/s] [内存消耗：2,889.93kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/stocks/stockstake.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200228-4-120',
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:41:32+08:00] 120.244.234.181 GET mis.mbacms.com/admin/user/rulelist.html
+[运行时间：0.027346s] [吞吐率：36.57req/s] [内存消耗：2,791.91kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/user/ruleList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-03-19T23:41:32+08:00] 120.244.234.181 GET mis.mbacms.com/admin/user/ruleListJson?page=1&limit=10
+[运行时间：0.047957s] [吞吐率：20.85req/s] [内存消耗：3,733.55kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=av9peofj8mv0n95psgg1gnfob5',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/user/rulelist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-03-19T23:59:35+08:00] 183.136.225.56 GET 47.95.1.68/
+[运行时间：0.015166s] [吞吐率：65.94req/s] [内存消耗：1,874.24kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-03-19T23:59:36+08:00] 183.136.225.56 GET 47.95.1.68/index/login/login.html
+[运行时间：0.021961s] [吞吐率：45.54req/s] [内存消耗：2,627.40kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]

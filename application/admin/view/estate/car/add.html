@@ -1,0 +1,172 @@
+{extend name='pub/modal'}
+{block name='content'}
+<style type="text/css" media="all">
+	.layui-image{
+		display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px solid #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.layui-image img{
+	    height: 100%;
+	    display: inline-block;
+	    vertical-align: top;
+	}
+	
+	.fc-files {
+	    display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    cursor: pointer;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px dashed #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.ivu-icon {
+	    display: inline-block;
+	    font-family: Ionicons;
+	    speak: none;
+	    font-style: normal;
+	    font-weight: 400;
+	    font-variant: normal;
+	    text-transform: none;
+	    text-rendering: auto;
+	    line-height: 1;
+	    -webkit-font-smoothing: antialiased;
+	    -moz-osx-font-smoothing: grayscale;
+	}
+</style>
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-add-form" action="add" method="post">
+ 
+            <div class="layui-form-item">
+                <label class="layui-form-label">所在单位</label>
+                <div class="layui-input-block">
+                    <select name="enter_id" id="enter_id" class="layui-select" lay-search>
+	                    {foreach $enter as $e}
+	                    <option value="{$e.id}">{$e.enter_name}</option>
+	                   {/foreach}
+	                </select>
+                </div>
+            </div>
+            
+            <hr>
+            
+            <div class="layui-form-item">
+            	<div class="layui-col-md3">
+	            	<label class="layui-form-label">车位号</label>
+	                <div class="layui-input-inline">
+	                    <input type="text"  name="car_parking" autocomplete="off" class="layui-input">
+	                </div>
+            	</div>
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">车牌号</label>
+	                <div class="layui-input-inline">
+	                     <input type="text"  name="car_no" autocomplete="off" class="layui-input">
+	                </div>
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+            	<div class="layui-col-md3">
+	            	<label class="layui-form-label">车辆名称</label>
+	                <div class="layui-input-inline">
+	                     <input type="text" name="car_name" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+            	</div>
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">车辆类型</label>
+	                <div class="layui-input-inline">
+	                    <select name="car_type" id="car_type" class="layui-select" lay-search>
+	                		<option value="1">蓝色车牌</option>
+	                		<option value="2">黄色车牌</option>
+	                		<option value="3">绿色车牌</option>
+	                    </select>
+	                </div>
+                </div>
+            </div>
+           
+            <div class="layui-form-item">
+        		<div class="layui-col-md3">
+        			<label class="layui-form-label">车主名称</label>
+	                <div class="layui-input-inline">
+	                    <input type="text"  name="car_username" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+        		<div class="layui-col-md3">
+        			<label class="layui-form-label">联系电话</label>
+	                <div class="layui-input-inline">
+	                    <input type="text"  name="car_tel" lay-verify="required|phone" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+            </div>
+            
+            <div class="layui-form-item">
+        		<div class="layui-col-md3">
+        			<label class="layui-form-label">登记时间</label>
+	                <div class="layui-input-inline">
+	                    <input type="text"  name="car_start_time" id="start" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+        		<div class="layui-col-md3">
+        			<label class="layui-form-label">到期时间</label>
+	                <div class="layui-input-inline">
+	                    <input type="text"  name="car_end_time" id="end" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+            </div>
+            
+            <hr>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">车辆图片</label>
+                <div class="layui-input-block">
+                    <div class="fc-files" style="float:left;" onclick="xadmin.open('添加车辆','/admin/widget.images/index/fodder/image.html',600,400)">
+                    	<i class="layui-icon layui-icon-picture ivu-icon" style="font-size: 20px;"></i>
+                    </div>
+                    <div id="img" style="float:left;">
+	                	
+	                </div>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button style="margin-left: 30%" class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/javascript" charset="utf-8">
+	function changeIMG(obj,src){
+		$img_str = '<div class="layui-image"><img src="'+src+'" alt="'+src+'" /><input type="hidden" name="car_pic[]" value="'+src+'" /></div>';
+		layui.use(['jquery'], function(){
+		   	var $ = layui.jquery;
+		   	$('#img').append($img_str);
+	    })
+	}
+</script>
+{/block}
+
+
+
+

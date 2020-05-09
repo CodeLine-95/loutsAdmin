@@ -1,0 +1,128 @@
+{extend name='pub/modal'}
+{block name='content'}
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-edit-form" action="edit" method="post">
+	        <input type="hidden" name="id" value="{$field.id}">
+            <div class="layui-form-item">
+                <label class="layui-form-label">企业名称</label>
+                <div class="layui-input-block">
+                    <input type="text" name="enter_name" value="{$field.enter_name}" lay-verify="required" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <div class="layui-col-md3">
+                	<label class="layui-form-label">企业简称</label>
+                      <div class="layui-input-inline">
+                       <input type="text"  name="enter_short" value="{$field.enter_short}" autocomplete="off" class="layui-input">
+                     </div>
+                </div>
+            	
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">租赁面积</label>
+	                <div class="layui-input-inline">
+	                    <div class="layui-input-inline">
+                         <input type="text"  name="enter_acreage" value="{$field.enter_acreage}" lay-verify="required" autocomplete="off" class="layui-input">
+                        </div>
+	                </div>
+                </div>
+            </div>             
+            
+            <div class="layui-form-item">
+                <div class="layui-col-md3">
+                	<label class="layui-form-label">企业管家</label>
+                      <div class="layui-input-inline">
+                        <select name="enter_butler" class="layui-select">
+                        	{foreach $member as $m}
+                        	<option value="{$m.id}" {if condition="$field.enter_butler == $m.id"} selected {/if}>{$m.member_name}</option>
+                        	{/foreach}
+                        </select>
+                     </div>
+                </div>	
+            	
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">联系人</label>
+	                <div class="layui-input-inline">
+	                    <div class="layui-input-inline">
+                        <input type="text"  name="enter_people" value="{$field.enter_people}" lay-verify="required" autocomplete="off" class="layui-input">
+                        </div>
+	                </div>
+                </div>
+            </div> 
+            
+            <div class="layui-form-item">
+                <div class="layui-col-md3">
+                <label class="layui-form-label">联系手机</label>
+                      <div class="layui-input-inline">
+                    <input type="text"  name="enter_phone" value="{$field.enter_phone}" lay-verify="required" autocomplete="off" class="layui-input">
+                     </div>
+                </div>	
+            	
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">公司座机</label>
+	                <div class="layui-input-inline">
+	                    <div class="layui-input-inline">
+                    <input type="text"  name="enter_tel" value="{$field.enter_tel}" lay-verify="required" autocomplete="off" class="layui-input">
+                        </div>
+	                </div>
+                </div>
+            </div> 
+            
+            <div class="layui-form-item">
+                <div class="layui-col-md3">
+                <label class="layui-form-label">入驻日期</label>
+                      <div class="layui-input-inline">
+                    <input type="text"  name="enter_time" value="{:date('Y-m-d',$field.enter_time)}" id="start" lay-verify="required" autocomplete="off" class="layui-input">
+                     </div>
+                </div>	
+            	
+            	<div class="layui-col-md3">
+	                <label class="layui-form-label">离场日期</label>
+	                <div class="layui-input-inline">
+	                    <div class="layui-input-inline">
+                    <input type="text"  name="enter_leave" value="{:date('Y-m-d',$field.enter_leave)}" id="end" lay-verify="required" autocomplete="off" class="layui-input">
+                        </div>
+	                </div>
+                </div>
+            </div>                              
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">联系地址</label>
+                <div class="layui-input-block">
+                    <input type="text"  name="enter_address" value="{$field.enter_address}" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">企业简介</label>
+                <div class="layui-input-block">
+                    <textarea name="enter_comment" class="layui-textarea">{$field.enter_comment}</textarea>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">
+                    是否启用
+                </label>
+                <div class="layui-input-block">
+                    <select lay-filter="aihao" name="enter_status">
+                        <option value="1" {if condition="$field.enter_status == 1"} selected {/if}>启用</option>
+                        <option value="0" {if condition="$field.enter_status == 0"} selected {/if}>禁止</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button style="margin-left: 30%" class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{/block}
+
+
+
+

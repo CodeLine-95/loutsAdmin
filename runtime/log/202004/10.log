@@ -1,0 +1,4117 @@
+---------------------------------------------------------------
+
+[2020-04-10T01:52:30+08:00] 106.14.104.214 GET /
+[运行时间：0.015322s] [吞吐率：65.27req/s] [内存消耗：1,873.16kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T06:35:01+08:00] 185.173.35.1 GET 47.95.1.68:443/
+[运行时间：0.015346s] [吞吐率：65.16req/s] [内存消耗：1,874.18kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com',
+  'host' => '47.95.1.68:443',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T08:51:26+08:00] 128.14.133.58 GET 47.95.1.68/
+[运行时间：0.016590s] [吞吐率：60.28req/s] [内存消耗：1,874.43kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T09:59:19+08:00] 35.187.98.101 GET 47.95.1.68/
+[运行时间：0.016363s] [吞吐率：61.11req/s] [内存消耗：1,874.80kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'x-datadog-sampling-priority' => '0',
+  'x-datadog-parent-id' => '519243358699551603',
+  'x-datadog-trace-id' => '14440016627841974121',
+  'user-agent' => 'python-requests/2.23.0',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T11:38:22+08:00] 221.221.148.230 GET mis.agzjt.com/index.php/login
+[运行时间：0.470086s] [吞吐率：2.13req/s] [内存消耗：1,468.12kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T11:38:23+08:00] 221.221.148.230 GET mis.agzjt.com/favicon.ico
+[运行时间：0.015037s] [吞吐率：66.50req/s] [内存消耗：1,468.77kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T11:38:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/
+[运行时间：0.275085s] [吞吐率：3.64req/s] [内存消耗：2,814.16kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T11:38:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.047479s] [吞吐率：21.06req/s] [内存消耗：2,700.23kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:38:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.053101s] [吞吐率：18.83req/s] [内存消耗：1,797.75kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T11:38:33+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.024859s] [吞吐率：40.23req/s] [内存消耗：2,700.27kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:38:33+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.017899s] [吞吐率：55.87req/s] [内存消耗：1,797.97kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T11:38:47+08:00] 221.221.148.230 POST mis.agzjt.com/admin/login/login
+[运行时间：0.142377s] [吞吐率：7.02req/s] [内存消耗：3,042.53kb] [文件加载：81]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; username=agz; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'origin' => 'https://mis.agzjt.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '51',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'root',
+  'password' => 'agz123!@#',
+  'logincode' => 'jy7v',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T11:38:51+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.256607s] [吞吐率：3.90req/s] [内存消耗：3,084.09kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:38:51+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.181565s] [吞吐率：5.51req/s] [内存消耗：3,420.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:38:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.031283s] [吞吐率：31.97req/s] [内存消耗：2,840.24kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T11:38:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.060320s] [吞吐率：16.58req/s] [内存消耗：3,391.35kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T11:38:56+08:00] 221.221.148.230 GET mis.agzjt.com/index.php/login
+[运行时间：0.013364s] [吞吐率：74.83req/s] [内存消耗：1,468.08kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T11:44:52+08:00] 183.136.225.57 GET 47.95.1.68/
+[运行时间：0.120828s] [吞吐率：8.28req/s] [内存消耗：1,874.24kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T11:44:52+08:00] 183.136.225.57 GET 47.95.1.68/index/login/login.html
+[运行时间：0.051789s] [吞吐率：19.31req/s] [内存消耗：2,627.40kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:51:23+08:00] 117.136.0.247 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.023397s] [吞吐率：42.74req/s] [内存消耗：2,811.84kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-cn; MIX 2S Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.2 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T11:51:23+08:00] 117.136.0.247 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.023855s] [吞吐率：41.92req/s] [内存消耗：2,697.93kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=652kdmi3517pv6g1lrctg0kl81',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-cn; MIX 2S Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.2 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T11:51:23+08:00] 117.136.0.247 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.051612s] [吞吐率：19.38req/s] [内存消耗：1,795.48kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=652kdmi3517pv6g1lrctg0kl81',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'accept' => 'image/webp,image/sharpp,image/apng,image/tpg,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Linux; U; Android 10; zh-cn; MIX 2S Build/QKQ1.190828.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.2 Mobile Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T11:51:24+08:00] 117.136.0.247 GET mis.agzjt.com/favicon.ico
+[运行时间：0.013902s] [吞吐率：71.93req/s] [内存消耗：1,468.31kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T13:11:06+08:00] 221.221.148.230 GET mis.mbacms.com/
+[运行时间：0.016532s] [吞吐率：60.49req/s] [内存消耗：1,875.88kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'cross-site',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T13:11:06+08:00] 221.221.148.230 GET mis.mbacms.com/index/login/login.html
+[运行时间：0.024704s] [吞吐率：40.48req/s] [内存消耗：2,629.07kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=f23gtneil1bog1kfvgb4l6vkj3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'cross-site',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T13:11:07+08:00] 221.221.148.230 GET mis.mbacms.com/favicon.ico
+[运行时间：0.015098s] [吞吐率：66.23req/s] [内存消耗：1,468.70kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T13:27:14+08:00] 221.221.148.230 GET mis.mbacms.com/
+[运行时间：0.015345s] [吞吐率：65.17req/s] [内存消耗：1,875.78kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=f23gtneil1bog1kfvgb4l6vkj3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T13:27:14+08:00] 221.221.148.230 GET mis.mbacms.com/index/login/login.html
+[运行时间：0.022601s] [吞吐率：44.25req/s] [内存消耗：2,629.31kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=f23gtneil1bog1kfvgb4l6vkj3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T13:34:20+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.030391s] [吞吐率：32.90req/s] [内存消耗：3,084.63kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T13:34:24+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.044982s] [吞吐率：22.23req/s] [内存消耗：3,420.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T13:34:35+08:00] 221.221.148.230 GET mis.agzjt.com/favicon.ico
+[运行时间：0.014913s] [吞吐率：67.06req/s] [内存消耗：1,468.77kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T13:34:35+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.031045s] [吞吐率：32.21req/s] [内存消耗：2,840.24kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T13:34:35+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.034130s] [吞吐率：29.30req/s] [内存消耗：3,391.35kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; met_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221eaeba42f39ebb015b47dd9685c237ee%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22221.221.148.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A109%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F79.0.3945.88+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1586489841%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D0574493e904e6b5d679d1b1c657a0d5a; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T13:41:40+08:00] 47.92.95.89 GET mis.agzjt.com/
+[运行时间：0.014999s] [吞吐率：66.67req/s] [内存消耗：1,874.18kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.agzjt.com',
+  'user-agent' => 'Mozilla/5.0 (Linux/Android/android/iphone;)',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T13:41:40+08:00] 47.92.95.89 GET mis.agzjt.com/index/login/login.html
+[运行时间：0.021844s] [吞吐率：45.78req/s] [内存消耗：2,627.21kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.agzjt.com',
+  'user-agent' => 'Mozilla/5.0 (Linux/Android/android/iphone;)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:09:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/indx.htmI
+[运行时间：0.024504s] [吞吐率：40.81req/s] [内存消耗：2,811.35kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:09:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.022691s] [吞吐率：44.07req/s] [内存消耗：2,697.68kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:09:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.034169s] [吞吐率：29.27req/s] [内存消耗：1,795.11kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T14:09:43+08:00] 221.221.148.230 GET mis.agzjt.com/favicon.ico
+[运行时间：0.012937s] [吞吐率：77.30req/s] [内存消耗：1,468.31kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:10:20+08:00] 221.221.148.230 POST mis.agzjt.com/admin/login/login
+[运行时间：0.023026s] [吞吐率：43.43req/s] [内存消耗：2,684.70kb] [文件加载：72]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'https://mis.agzjt.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '50',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'ZZH',
+  'password' => 'ZZH123!@#',
+  'logincode' => 'QCEV',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:10:24+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.043943s] [吞吐率：22.76req/s] [内存消耗：3,419.09kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:10:25+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.028163s] [吞吐率：35.51req/s] [内存消耗：2,838.74kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:10:25+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.035824s] [吞吐率：27.91req/s] [内存消耗：3,389.60kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:10:37+08:00] 221.221.148.230 POST mis.agzjt.com/admin/login/login
+[运行时间：0.031393s] [吞吐率：31.85req/s] [内存消耗：3,040.05kb] [文件加载：81]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'https://mis.agzjt.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '50',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'ZZH',
+  'password' => 'zzh123!@#',
+  'logincode' => 'QCEV',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:10:40+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.031203s] [吞吐率：32.05req/s] [内存消耗：3,025.59kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:10:40+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.045216s] [吞吐率：22.12req/s] [内存消耗：3,395.96kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:10:43+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.027154s] [吞吐率：36.83req/s] [内存消耗：2,816.07kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:10:43+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.039835s] [吞吐率：25.10req/s] [内存消耗：3,366.93kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:11:41+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.131610s] [吞吐率：7.60req/s] [内存消耗：2,945.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:11:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.120047s] [吞吐率：8.33req/s] [内存消耗：2,938.68kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:13:16+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=635
+[运行时间：0.054389s] [吞吐率：18.39req/s] [内存消耗：3,400.23kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '635',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:13:26+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=636
+[运行时间：0.036363s] [吞吐率：27.50req/s] [内存消耗：3,400.23kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '636',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:13:36+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.035549s] [吞吐率：28.13req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:13:44+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouselist.html
+[运行时间：0.037251s] [吞吐率：26.84req/s] [内存消耗：2,883.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/storehouseList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:13:46+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/supplierlist.html
+[运行时间：0.038344s] [吞吐率：26.08req/s] [内存消耗：2,887.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/supplierList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:13:47+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/supplierListJson?page=1&limit=10
+[运行时间：0.029939s] [吞吐率：33.40req/s] [内存消耗：2,925.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/supplierlist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:14:22+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.037863s] [吞吐率：26.41req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:14:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=643
+[运行时间：0.037443s] [吞吐率：26.71req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '643',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:14:58+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.037767s] [吞吐率：26.48req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:24+08:00] 221.221.148.230 GET mis.mbacms.com/admin/login/login.html
+[运行时间：0.023173s] [吞吐率：43.15req/s] [内存消耗：2,697.56kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:24+08:00] 221.221.148.230 GET mis.mbacms.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.016806s] [吞吐率：59.50req/s] [内存消耗：1,795.08kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T14:15:24+08:00] 221.221.148.230 GET mis.agzjt.com/admin/storage/storagelist.html
+[运行时间：0.050773s] [吞吐率：19.70req/s] [内存消耗：2,806.23kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/storageList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:25+08:00] 221.221.148.230 GET mis.mbacms.com/favicon.ico
+[运行时间：0.013447s] [吞吐率：74.37req/s] [内存消耗：1,468.31kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:15:31+08:00] 221.221.148.230 POST mis.mbacms.com/admin/login/login
+[运行时间：0.028130s] [吞吐率：35.55req/s] [内存消耗：3,040.20kb] [文件加载：81]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'https://mis.mbacms.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '50',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'ybx',
+  'password' => 'ybx123!@#',
+  'logincode' => '6LCU',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.029040s] [吞吐率：34.44req/s] [内存消耗：2,945.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:32+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.029423s] [吞吐率：33.99req/s] [内存消耗：2,938.68kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:34+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.035277s] [吞吐率：28.35req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:34+08:00] 221.221.148.230 GET mis.mbacms.com/admin/index/index.html
+[运行时间：0.028615s] [吞吐率：34.95req/s] [内存消耗：3,025.59kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:35+08:00] 221.221.148.230 GET mis.mbacms.com/admin/index/welcome.html
+[运行时间：0.045136s] [吞吐率：22.16req/s] [内存消耗：3,395.96kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:36+08:00] 221.221.148.230 GET mis.mbacms.com/admin/index/memberchart.html
+[运行时间：0.026042s] [吞吐率：38.40req/s] [内存消耗：2,815.95kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:36+08:00] 221.221.148.230 GET mis.mbacms.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.032099s] [吞吐率：31.15req/s] [内存消耗：3,366.80kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:37+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=643
+[运行时间：0.035492s] [吞吐率：28.18req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '643',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:39+08:00] 221.221.148.230 GET mis.mbacms.com/admin/goods/goodslist.html
+[运行时间：0.027803s] [吞吐率：35.97req/s] [内存消耗：2,945.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:41+08:00] 221.221.148.230 GET mis.mbacms.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.028753s] [吞吐率：34.78req/s] [内存消耗：2,938.55kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:43+08:00] 221.221.148.230 GET mis.mbacms.com/admin/goods/editGoods.html?id=644
+[运行时间：0.036769s] [吞吐率：27.20req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.mbacms.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=0dv0q7kh3phajjghc9cb7fibs1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.mbacms.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:44+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editSupplier.html?id=43
+[运行时间：0.040980s] [吞吐率：24.40req/s] [内存消耗：2,873.55kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/supplierlist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '43',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editSupplier.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:47+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editSupplier.html?id=42
+[运行时间：0.030365s] [吞吐率：32.93req/s] [内存消耗：2,873.45kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/supplierlist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '42',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editSupplier.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:51+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.028826s] [吞吐率：34.69req/s] [内存消耗：3,025.95kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:51+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.043749s] [吞吐率：22.86req/s] [内存消耗：3,396.56kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.028608s] [吞吐率：34.96req/s] [内存消耗：2,945.38kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:15:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.027733s] [吞吐率：36.06req/s] [内存消耗：2,816.07kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.039882s] [吞吐率：25.07req/s] [内存消耗：3,366.93kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:15:55+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.029196s] [吞吐率：34.25req/s] [内存消耗：2,939.03kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:16:01+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.037702s] [吞吐率：26.52req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:16:13+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.029382s] [吞吐率：34.03req/s] [内存消耗：2,965.22kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:16:14+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.029590s] [吞吐率：33.80req/s] [内存消耗：2,961.23kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:16:16+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.037681s] [吞吐率：26.54req/s] [内存消耗：3,423.30kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:16:28+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.036686s] [吞吐率：27.26req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:19:24+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.038664s] [吞吐率：25.86req/s] [内存消耗：3,400.26kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:19:27+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouselist.html
+[运行时间：0.028018s] [吞吐率：35.69req/s] [内存消耗：2,883.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=845b1hrnv0dt7ai6ort9nti083',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.108 Safari/537.36 2345Explorer/8.8.3.16721',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/storehouseList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:19:54+08:00] 221.221.148.230 GET mis.mbacms.com/favicon.ico
+[运行时间：0.013430s] [吞吐率：74.46req/s] [内存消耗：1,468.22kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:19:54+08:00] 221.221.148.230 GET mis.mbacms.com/favicon.ico
+[运行时间：0.013292s] [吞吐率：75.23req/s] [内存消耗：1,468.22kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:20:07+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.023501s] [吞吐率：42.55req/s] [内存消耗：2,811.59kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:07+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.022682s] [吞吐率：44.09req/s] [内存消耗：2,697.93kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:07+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.016487s] [吞吐率：60.65req/s] [内存消耗：1,795.36kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T14:20:08+08:00] 221.221.148.230 GET mis.agzjt.com/favicon.ico
+[运行时间：0.013815s] [吞吐率：72.39req/s] [内存消耗：1,468.31kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:20:11+08:00] 221.221.148.230 GET mis.agzjt.com/favicon.ico
+[运行时间：0.013468s] [吞吐率：74.25req/s] [内存消耗：1,468.25kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-10T14:20:30+08:00] 221.221.148.230 POST mis.agzjt.com/admin/login/login
+[运行时间：0.028190s] [吞吐率：35.47req/s] [内存消耗：3,040.20kb] [文件加载：81]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'https://mis.agzjt.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '50',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'zzh',
+  'password' => 'zzh123!@#',
+  'logincode' => 'fpth',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:34+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.029757s] [吞吐率：33.61req/s] [内存消耗：3,025.59kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:34+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.056314s] [吞吐率：17.76req/s] [内存消耗：3,395.96kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:36+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.029216s] [吞吐率：34.23req/s] [内存消耗：2,816.20kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:36+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.040511s] [吞吐率：24.68req/s] [内存消耗：3,367.05kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:40+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.029818s] [吞吐率：33.54req/s] [内存消耗：2,945.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:40+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.028374s] [吞吐率：35.24req/s] [内存消耗：2,938.68kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.042016s] [吞吐率：23.80req/s] [内存消耗：3,400.51kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:45+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouselist.html
+[运行时间：0.030108s] [吞吐率：33.21req/s] [内存消耗：2,883.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/storehouseList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:46+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouseListJson?page=1&limit=10
+[运行时间：0.028441s] [吞吐率：35.16req/s] [内存消耗：2,922.12kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/storehouselist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:20:54+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=643
+[运行时间：0.036852s] [吞吐率：27.14req/s] [内存消耗：3,400.51kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '643',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:20:58+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.036630s] [吞吐率：27.30req/s] [内存消耗：3,400.51kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:01+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=642
+[运行时间：0.039403s] [吞吐率：25.38req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '642',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:05+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=640
+[运行时间：0.036821s] [吞吐率：27.16req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '640',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:10+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=635
+[运行时间：0.038308s] [吞吐率：26.10req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '635',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:14+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=2&limit=10
+[运行时间：0.028686s] [吞吐率：34.86req/s] [内存消耗：2,938.64kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:21:17+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=634
+[运行时间：0.034769s] [吞吐率：28.76req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '634',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:20+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=3&limit=10
+[运行时间：0.028660s] [吞吐率：34.89req/s] [内存消耗：2,938.59kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:21:21+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=624
+[运行时间：0.035677s] [吞吐率：28.03req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '624',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:21:25+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=4&limit=10
+[运行时间：0.029247s] [吞吐率：34.19req/s] [内存消耗：2,938.44kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '4',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:21:27+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=614
+[运行时间：0.036908s] [吞吐率：27.09req/s] [内存消耗：3,400.52kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '614',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:26:17+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.031779s] [吞吐率：31.47req/s] [内存消耗：3,082.88kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:26:17+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.044147s] [吞吐率：22.65req/s] [内存消耗：3,419.01kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:26:18+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.035082s] [吞吐率：28.50req/s] [内存消耗：3,389.60kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:26:18+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.043216s] [吞吐率：23.14req/s] [内存消耗：2,838.74kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:32:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/login.html
+[运行时间：0.022877s] [吞吐率：43.71req/s] [内存消耗：2,698.73kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:32:42+08:00] 221.221.148.230 GET mis.agzjt.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.016703s] [吞吐率：59.87req/s] [内存消耗：1,796.51kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-10T14:32:43+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.030351s] [吞吐率：32.95req/s] [内存消耗：3,083.56kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:32:43+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.045396s] [吞吐率：22.03req/s] [内存消耗：3,419.77kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T14:32:44+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.033500s] [吞吐率：29.85req/s] [内存消耗：3,390.33kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:32:44+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.040357s] [吞吐率：24.78req/s] [内存消耗：2,839.47kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T14:46:30+08:00] 47.92.50.96 GET mis.mbacms.com/
+[运行时间：0.015830s] [吞吐率：63.17req/s] [内存消耗：1,874.18kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (Linux/Android/android/iphone;)',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T14:46:30+08:00] 47.92.50.96 GET mis.mbacms.com/index/login/login.html
+[运行时间：0.028358s] [吞吐率：35.26req/s] [内存消耗：2,627.21kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (Linux/Android/android/iphone;)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:12:00+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.032240s] [吞吐率：31.02req/s] [内存消耗：3,083.60kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:12:00+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.051431s] [吞吐率：19.44req/s] [内存消耗：3,419.73kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:12:00+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.027902s] [吞吐率：35.84req/s] [内存消耗：2,839.47kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:12:00+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.041661s] [吞吐率：24.00req/s] [内存消耗：3,390.33kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:29:02+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=3&limit=10
+[运行时间：0.029777s] [吞吐率：33.58req/s] [内存消耗：2,938.59kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:29:04+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.030236s] [吞吐率：33.07req/s] [内存消耗：2,938.68kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:30:43+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=644
+[运行时间：0.036351s] [吞吐率：27.51req/s] [内存消耗：3,400.51kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '644',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:30:53+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=635
+[运行时间：0.036411s] [吞吐率：27.46req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '635',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:31:03+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/categorylist.html
+[运行时间：0.055405s] [吞吐率：18.05req/s] [内存消耗：2,883.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/categoryList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:31:03+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/categoryListJson?page=1&limit=10
+[运行时间：0.031979s] [吞吐率：31.27req/s] [内存消耗：3,244.98kb] [文件加载：82]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/categorylist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:33:12+08:00] 221.221.148.230 GET mis.agzjt.com/admin/storage/storagelist.html
+[运行时间：0.027062s] [吞吐率：36.95req/s] [内存消耗：2,806.23kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/storageList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'ordertype',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:33:12+08:00] 221.221.148.230 GET mis.agzjt.com/admin/storage/storageListJson?page=1&limit=10
+[运行时间：0.035954s] [吞吐率：27.81req/s] [内存消耗：2,945.42kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/storage/storagelist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:33:15+08:00] 221.221.148.230 GET mis.agzjt.com/admin/storage/editStorage.html?or_id=VM_20200408-7-357
+[运行时间：0.051018s] [吞吐率：19.60req/s] [内存消耗：2,843.88kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/storage/storagelist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'or_id' => 'VM_20200408-7-357',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/storage/editStorage.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'or_id',
+  6 => 'orders',
+  7 => 'supplier',
+  8 => 'user',
+  9 => 'house',
+  10 => 'verify_status',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:34:15+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/supplierlist.html
+[运行时间：0.028861s] [吞吐率：34.65req/s] [内存消耗：2,887.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/supplierList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:34:15+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/supplierListJson?page=1&limit=10
+[运行时间：0.028652s] [吞吐率：34.90req/s] [内存消耗：2,925.98kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/supplierlist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:34:18+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/shoplist.html
+[运行时间：0.042276s] [吞吐率：23.65req/s] [内存消耗：2,945.02kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/shopList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:34:18+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/shopListJson?page=1&limit=10
+[运行时间：0.028297s] [吞吐率：35.34req/s] [内存消耗：2,919.72kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/shoplist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:34:32+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=2&limit=10
+[运行时间：0.044019s] [吞吐率：22.72req/s] [内存消耗：2,938.64kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:34:35+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=630
+[运行时间：0.035396s] [吞吐率：28.25req/s] [内存消耗：3,400.47kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '630',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:38:24+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=3&limit=10
+[运行时间：0.028302s] [吞吐率：35.33req/s] [内存消耗：2,938.59kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:38:26+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=4&limit=10
+[运行时间：0.028908s] [吞吐率：34.59req/s] [内存消耗：2,938.44kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '4',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:38:31+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=614
+[运行时间：0.036510s] [吞吐率：27.39req/s] [内存消耗：3,400.52kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '614',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:38:58+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/editGoods.html?id=611
+[运行时间：0.036728s] [吞吐率：27.23req/s] [内存消耗：3,400.48kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+  'id' => '611',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/editGoods.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'category',
+  6 => 'supplier',
+  7 => 'data',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:39:29+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=5&limit=10
+[运行时间：0.028837s] [吞吐率：34.68req/s] [内存消耗：2,938.62kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '5',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:39:49+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouselist.html
+[运行时间：0.029440s] [吞吐率：33.97req/s] [内存消耗：2,883.02kb] [文件加载：78]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/storehouseList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:39:49+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/storehouseListJson?page=1&limit=10
+[运行时间：0.029571s] [吞吐率：33.82req/s] [内存消耗：2,922.12kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/storehouselist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:39:52+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodslist.html
+[运行时间：0.028595s] [吞吐率：34.97req/s] [内存消耗：2,945.03kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/goods/goodsList.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:39:52+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=1&limit=10
+[运行时间：0.033040s] [吞吐率：30.27req/s] [内存消耗：2,938.68kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:39:56+08:00] 221.221.148.230 GET mis.agzjt.com/admin/goods/goodsListJson?page=3&limit=10
+[运行时间：0.029775s] [吞吐率：33.59req/s] [内存消耗：2,938.59kb] [文件加载：76]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/goods/goodslist.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+)
+[ info ] [ PARAM ] array (
+  'page' => '3',
+  'limit' => '10',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:46:55+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.029355s] [吞吐率：34.07req/s] [内存消耗：3,083.28kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:46:55+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/welcome.html
+[运行时间：0.041316s] [吞吐率：24.20req/s] [内存消耗：3,419.73kb] [文件加载：88]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/index.html',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/welcome.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+  5 => 'first_line',
+  6 => 'second_line',
+  7 => 'topData',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T15:46:58+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/orderchart.html?cycle=thirtyday
+[运行时间：0.032558s] [吞吐率：30.71req/s] [内存消耗：3,390.33kb] [文件加载：84]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+  'cycle' => 'thirtyday',
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:46:58+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/memberchart.html
+[运行时间：0.039109s] [吞吐率：25.57req/s] [内存消耗：2,839.47kb] [文件加载：74]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; userpwd=agz1234%21%40%23%24; ispwd=1; token=60ed0681a9a6b3c7c5bbfd14c6d1b603; PHPSESSID=72khvuednruerkaenc5gsesbq3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/index/welcome.html',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
+  'accept' => 'application/json, text/plain, */*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-10T15:53:46+08:00] 39.107.14.208 GET /
+[运行时间：0.015806s] [吞吐率：63.27req/s] [内存消耗：1,873.16kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T16:29:57+08:00] 181.48.225.126 GET 47.95.1.68:443/
+[运行时间：0.015450s] [吞吐率：64.72req/s] [内存消耗：1,874.09kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'libwww-perl/6.43',
+  'host' => '47.95.1.68:443',
+  'connection' => 'TE, close',
+  'te' => 'deflate,gzip;q=0.3',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T16:29:58+08:00] 181.48.225.126 GET 47.95.1.68:443/index/login/login.html
+[运行时间：0.021720s] [吞吐率：46.04req/s] [内存消耗：2,627.19kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'libwww-perl/6.43',
+  'host' => '47.95.1.68:443',
+  'connection' => 'TE, close',
+  'te' => 'deflate,gzip;q=0.3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T17:10:04+08:00] 149.129.124.8 GET 47.95.1.68/
+[运行时间：0.016342s] [吞吐率：61.19req/s] [内存消耗：1,874.05kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T17:10:06+08:00] 149.129.124.8 GET 47.95.1.68:443/index/login/login.html
+[运行时间：0.023758s] [吞吐率：42.09req/s] [内存消耗：2,627.28kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'https://47.95.1.68:443/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '47.95.1.68:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T18:13:55+08:00] 221.221.148.230 GET mis.agzjt.com/admin/index/index.html
+[运行时间：0.028396s] [吞吐率：35.22req/s] [内存消耗：3,026.20kb] [文件加载：80]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mis.agzjt.com',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vgoqtmaqu0anlq68u3vj1sihv7',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mis.agzjt.com/admin/login/login.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3704.400 QQBrowser/10.4.3620.400',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/admin/view/index/index.html [ array (
+  0 => 'site_config',
+  1 => 'theme',
+  2 => 'menu',
+  3 => 'controller',
+  4 => 'action',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T19:55:26+08:00] 162.243.133.13 GET 47.95.1.68/
+[运行时间：0.015736s] [吞吐率：63.55req/s] [内存消耗：1,874.05kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '47.95.1.68',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T20:06:45+08:00] 120.78.231.236 GET /
+[运行时间：0.016670s] [吞吐率：59.99req/s] [内存消耗：1,873.16kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T20:18:40+08:00] 159.203.12.19 HEAD mbacms.com/
+[运行时间：0.016100s] [吞吐率：62.11req/s] [内存消耗：1,873.80kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T20:18:42+08:00] 159.203.12.19 HEAD mbacms.com/index/login/login.html
+[运行时间：0.021339s] [吞吐率：46.86req/s] [内存消耗：2,627.05kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=r8ksc7k6islvl5bh9d5ptd7i60',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36',
+  'host' => 'mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T22:30:42+08:00] 47.100.207.141 GET 47.95.1.68/
+[运行时间：0.023367s] [吞吐率：42.80req/s] [内存消耗：1,874.25kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '47.95.1.68',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T22:30:42+08:00] 47.100.207.141 GET 47.95.1.68/index/login/login.html
+[运行时间：0.023795s] [吞吐率：42.03req/s] [内存消耗：2,627.41kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '47.95.1.68',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-10T23:12:45+08:00] 47.100.36.95 GET mis.mbacms.com/
+[运行时间：0.017029s] [吞吐率：58.72req/s] [内存消耗：1,874.24kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-10T23:12:46+08:00] 47.100.36.95 GET mis.mbacms.com/index/login/login.html
+[运行时间：0.022447s] [吞吐率：44.55req/s] [内存消耗：2,627.40kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/mis.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mis.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/mis.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]

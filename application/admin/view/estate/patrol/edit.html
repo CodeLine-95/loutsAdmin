@@ -1,0 +1,128 @@
+{extend name='pub/modal'}
+{block name='content'}
+<style type="text/css" media="all">
+	.layui-image{
+		display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px solid #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.layui-image img{
+	    height: 100%;
+	    display: inline-block;
+	    vertical-align: top;
+	}
+	
+	.fc-files {
+	    display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    cursor: pointer;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px dashed #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.ivu-icon {
+	    display: inline-block;
+	    font-family: Ionicons;
+	    speak: none;
+	    font-style: normal;
+	    font-weight: 400;
+	    font-variant: normal;
+	    text-transform: none;
+	    text-rendering: auto;
+	    line-height: 1;
+	    -webkit-font-smoothing: antialiased;
+	    -moz-osx-font-smoothing: grayscale;
+	}
+</style>
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-edit-form" action="edit" method="post">
+	        <input type="hidden" name="id" value="{$field.id}">
+            <div class="layui-form-item">
+                <label class="layui-form-label">选择标识</label>
+                <div class="layui-input-block">
+<!--
+                    <select name="code_id" id="code_id" lay-verify="required" class="layui-select" lay-search>
+	                    {foreach $code as $e}
+	                    <option value="{$e.id}" {if condition="$field.code_id == $e.id"} selected {/if}>{$e.code_name}</option>
+	                   {/foreach}
+	                </select>
+-->
+	                {foreach $code as $e}
+	                	<input type="checkbox" {if condition="in_array($e.id,$field.code_id)"} checked="" {/if} name="code_id[]" value="{$e.id}" title="{$e.code_name}" lay-verify="required" autocomplete="off" class="layui-input">
+	                {/foreach}
+                </div>
+            </div>
+            
+            <hr>
+            
+            <div class="layui-form-item">
+	            <label class="layui-form-label">计划名称</label>
+                <div class="layui-input-block">
+                    <input type="text" name="patrol_name" value="{$field.patrol_name}" lay-verify="required" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            
+            <input type="hidden" name="patrol_name_old" value="{$field.patrol_name}">
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">计划周期</label>
+                <div class="layui-input-block">
+                    <input type="radio" name="patrol_week" value="0" title="每日" {if condition="$field.patrol_week == 0"} checked {/if}>
+                    <input type="radio" name="patrol_week" value="1" title="每周" {if condition="$field.patrol_week == 1"} checked {/if}>
+                    <input type="radio" name="patrol_week" value="2" title="每月" {if condition="$field.patrol_week == 2"} checked {/if}>
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+        		<div class="layui-col-md3">
+        			<label class="layui-form-label">开始时间</label>
+	                <div class="layui-input-block">
+	                    <input type="text" name="patrol_start_time" value="{$field.patrol_start_time}" id="start" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+            </div>
+            
+            <div id="layui-form-item">
+            	<div class="layui-col-md3">
+        			<label class="layui-form-label">结束时间</label>
+	                <div class="layui-input-block">
+	                    <input type="text" name="patrol_end_time" value="{$field.patrol_end_time}" id="end" lay-verify="required" autocomplete="off" class="layui-input">
+	                </div>
+        		</div>
+            </div>
+            
+            <hr>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{/block}
+
+
+
+

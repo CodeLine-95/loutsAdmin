@@ -1,0 +1,1640 @@
+---------------------------------------------------------------
+
+[2020-04-25T10:58:26+08:00] 47.100.112.206 GET pt.mbacms.com/
+[运行时间：0.017156s] [吞吐率：58.29req/s] [内存消耗：1,873.94kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-25T10:58:27+08:00] 47.100.112.206 GET pt.mbacms.com/index/login/login.html
+[运行时间：0.023752s] [吞吐率：42.10req/s] [内存消耗：2,627.14kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-25T16:21:19+08:00] 125.34.4.9 GET pt.mbacms.com/admin/
+[运行时间：0.022597s] [吞吐率：44.25req/s] [内存消耗：2,811.46kb] [文件加载：75]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-25T16:21:19+08:00] 125.34.4.9 GET pt.mbacms.com/admin/login/login.html
+[运行时间：0.022612s] [吞吐率：44.22req/s] [内存消耗：2,698.05kb] [文件加载：73]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/admin/view/login/login.html [ array (
+  0 => 'site_config',
+) ]
+---------------------------------------------------------------
+
+[2020-04-25T16:21:19+08:00] 125.34.4.9 GET pt.mbacms.com/admin/login/getcode?length=4&font_size=20&width=128&height=42&use_noise=1&use_curve=0
+[运行时间：0.020606s] [吞吐率：48.53req/s] [内存消耗：1,795.57kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://pt.mbacms.com/admin/login/login.html',
+  'purpose' => 'prefetch',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+  'length' => '4',
+  'font_size' => '20',
+  'width' => '128',
+  'height' => '42',
+  'use_noise' => '1',
+  'use_curve' => '0',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:21:38+08:00] 125.34.4.9 GET pt.mbacms.com/api/WxLogin/mp_userinfo
+[运行时间：0.016081s] [吞吐率：62.18req/s] [内存消耗：1,722.99kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:21:38+08:00] 125.34.4.9 GET pt.mbacms.com/favicon.ico
+[运行时间：0.013815s] [吞吐率：72.39req/s] [内存消耗：1,468.12kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-25T16:21:51+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo
+[运行时间：0.016465s] [吞吐率：60.73req/s] [内存消耗：1,769.36kb] [文件加载：69]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]未定义数组索引: code[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:8]
+---------------------------------------------------------------
+
+[2020-04-25T16:23:44+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo
+[运行时间：0.016572s] [吞吐率：60.34req/s] [内存消耗：1,724.47kb] [文件加载：65]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '!', expecting variable (T_VARIABLE) or '{' or '$'[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:8]
+---------------------------------------------------------------
+
+[2020-04-25T16:23:54+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo
+[运行时间：0.024092s] [吞吐率：41.51req/s] [内存消耗：1,769.90kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined function app\api\controller\josn()[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:12]
+---------------------------------------------------------------
+
+[2020-04-25T16:24:05+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo
+[运行时间：0.014477s] [吞吐率：69.08req/s] [内存消耗：1,681.89kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=hhu6k4tf30mbr8kh9p4kru1js5',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,mt;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:25:13+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0011C8vA08OEEj2gX2vA0vavvA01C8vN
+[运行时间：0.183521s] [吞吐率：5.45req/s] [内存消耗：1,681.91kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0011C8vA08OEEj2gX2vA0vavvA01C8vN',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:28:11+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0814VT7V1E6iDZ0agm6V1btG7V14VT73
+[运行时间：0.016340s] [吞吐率：61.20req/s] [内存消耗：1,724.39kb] [文件加载：65]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0814VT7V1E6iDZ0agm6V1btG7V14VT73',
+)
+[ error ] [0]语法解析错误: syntax error, unexpected ']'[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:14]
+---------------------------------------------------------------
+
+[2020-04-25T16:28:28+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=071bXZxK1u4ho104eRwK1RycyK1bXZxa
+[运行时间：0.187590s] [吞吐率：5.33req/s] [内存消耗：1,683.00kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '071bXZxK1u4ho104eRwK1RycyK1bXZxa',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:53:37+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011jyfVk0OYOcp1cGDTk0hgmVk0jyfVN
+[运行时间：0.191050s] [吞吐率：5.23req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011jyfVk0OYOcp1cGDTk0hgmVk0jyfVN',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:54:05+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001AwWwd1OtwXv0KOwyd1RzGwd1AwWwn
+[运行时间：0.182683s] [吞吐率：5.47req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001AwWwd1OtwXv0KOwyd1RzGwd1AwWwn',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:54:18+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=061GMs070CzcwC1v70Y60Lyf070GMs0x
+[运行时间：0.195126s] [吞吐率：5.12req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061GMs070CzcwC1v70Y60Lyf070GMs0x',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:54:19+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=061GMs070CzcwC1v70Y60Lyf070GMs0x&encryptedData=jn9eRnGM6NHLulJKW4giy3lvLlYgN%2F2l2OT5t6LrN9xT0CVC6BRAyXUlmrzGhbasNWENi62n7edYbu60IhRi%2B393uBfOxvpaDTHuijZ3%2BvXN3t7gjFY2CLgc%2FUskT2dpgbNL7CHr62Q2Di0BLW2pKoWYhC9LRU2n9B4A8mEhXPK%2F2Lrm%2FS4pqyQDykck1AplNUSacq3%2Fijaq1RC%2BqiCednRU2xs6HdBN9nm4rnhpLq7PxIdDWg8EVHit97Lf0YXHYu8zzc22gfakLGx7qOtVxDX10tStTEqcC25B1RPjt%2F0aOg%2FRGfYPX%2FJMumWrsInbRUZ46jZ%2B0EeIoYmKqcCYSgAj0PlxCH%2FVzaobVa7gq6876zH2Ccjvbn%2FHg9H5S6%2BHaSZejO5QpMj6fY3oS91Zslc6BWD4qWUqPbf12XKDRvtolWFnnAKjIIt3N50DlGu%2FeW847ZlrgUZUz7dcZ%2FEyYU%2FXZekgUBDwFmh%2F%2FTUo4k4%3D&session_key=undefined&iv=SGymRSzHAcL6xSm2X7HiSA%3D%3D
+[运行时间：0.170660s] [吞吐率：5.86req/s] [内存消耗：1,695.74kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061GMs070CzcwC1v70Y60Lyf070GMs0x',
+  'encryptedData' => 'jn9eRnGM6NHLulJKW4giy3lvLlYgN/2l2OT5t6LrN9xT0CVC6BRAyXUlmrzGhbasNWENi62n7edYbu60IhRi+393uBfOxvpaDTHuijZ3+vXN3t7gjFY2CLgc/UskT2dpgbNL7CHr62Q2Di0BLW2pKoWYhC9LRU2n9B4A8mEhXPK/2Lrm/S4pqyQDykck1AplNUSacq3/ijaq1RC+qiCednRU2xs6HdBN9nm4rnhpLq7PxIdDWg8EVHit97Lf0YXHYu8zzc22gfakLGx7qOtVxDX10tStTEqcC25B1RPjt/0aOg/RGfYPX/JMumWrsInbRUZ46jZ+0EeIoYmKqcCYSgAj0PlxCH/VzaobVa7gq6876zH2Ccjvbn/Hg9H5S6+HaSZejO5QpMj6fY3oS91Zslc6BWD4qWUqPbf12XKDRvtolWFnnAKjIIt3N50DlGu/eW847ZlrgUZUz7dcZ/EyYU/XZekgUBDwFmh//TUo4k4=',
+  'session_key' => 'undefined',
+  'iv' => 'SGymRSzHAcL6xSm2X7HiSA==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0019DiFg1YzmHv0hyOFg1tmdFg19DiFk
+[运行时间：0.207208s] [吞吐率：4.83req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0019DiFg1YzmHv0hyOFg1tmdFg19DiFk',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0019DiFg1YzmHv0hyOFg1tmdFg19DiFk&encryptedData=2TrvbK2tw4WBSKRFJTZWReqCPx2%2Fsqxw8HOEl3zKK%2BxTJsJjxWCxbKIXXCfQoh4B644y959NspcgVFhtgFsPjBdLoplEynrbBJWwCWyW1SCfvO%2F42EgjZQIKSlvl%2B7o5ZpS%2BseA2vRcY79o2qBsj5ie4eTFDRKuL7H4RJ967wa2kY8l%2BfYRxQ9m40sgue%2B9sjyb9fWbzUXMPUhfLDwbvjk3iADou5ESY5nKS%2F3smi5iAccg7OJySnhbkOEbvr3NGmEU6ypNMOqBNegygQSODQJP1uejdU7NFvhGvdmZN8KmfBh7io7ocA1U7hX2%2BFHK9wT5xIfI3CXsafW6kXpXUWwoJYUeU%2BxwcXHH1HSLAv0L7IfdGvuJqL74pwxSGi5CtUyQ2XXifdScxYnUFVTUGhH0KVyOVpPsr5v7tIOYjoHPGXTSkouVwSaROfMPWvEsphWEFZ2CprJwvCGVZh1VYfO375GDmWcm5AS0zh4qcXyU%3D&session_key=undefined&iv=LpLKjZzLF4KyUneSHbylIw%3D%3D
+[运行时间：0.186651s] [吞吐率：5.36req/s] [内存消耗：1,695.74kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0019DiFg1YzmHv0hyOFg1tmdFg19DiFk',
+  'encryptedData' => '2TrvbK2tw4WBSKRFJTZWReqCPx2/sqxw8HOEl3zKK+xTJsJjxWCxbKIXXCfQoh4B644y959NspcgVFhtgFsPjBdLoplEynrbBJWwCWyW1SCfvO/42EgjZQIKSlvl+7o5ZpS+seA2vRcY79o2qBsj5ie4eTFDRKuL7H4RJ967wa2kY8l+fYRxQ9m40sgue+9sjyb9fWbzUXMPUhfLDwbvjk3iADou5ESY5nKS/3smi5iAccg7OJySnhbkOEbvr3NGmEU6ypNMOqBNegygQSODQJP1uejdU7NFvhGvdmZN8KmfBh7io7ocA1U7hX2+FHK9wT5xIfI3CXsafW6kXpXUWwoJYUeU+xwcXHH1HSLAv0L7IfdGvuJqL74pwxSGi5CtUyQ2XXifdScxYnUFVTUGhH0KVyOVpPsr5v7tIOYjoHPGXTSkouVwSaROfMPWvEsphWEFZ2CprJwvCGVZh1VYfO375GDmWcm5AS0zh4qcXyU=',
+  'session_key' => 'undefined',
+  'iv' => 'LpLKjZzLF4KyUneSHbylIw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:50+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011oDYIW0UgBSZ1bGFJW0czXIW0oDYIP
+[运行时间：0.171104s] [吞吐率：5.84req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011oDYIW0UgBSZ1bGFJW0czXIW0oDYIP',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:50+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011oDYIW0UgBSZ1bGFJW0czXIW0oDYIP&encryptedData=pQNVcH%2B0%2FL2y42VgEuK1XNsGlyv%2FLh3zGh13ITC8Q5rauvGlGjSpGXt2aS%2BqtODyMWwyhOrlrSS4FmU0D8niUaWZpchcetAsbNQ27j%2Bn0yGT9XRt4xERNtoJJC8INwpXtgVdKUlbe02DM9cZ8BzPJzvsa2a831XVpbmV9XkksoIyTeCcUX6J4MpZlIFhEQTXueMaMDDkxkGtlKvf%2BTVxN5%2FB%2Fai9d6zXFVgONayiDaXMKBUZ9ZhSKliZHCO323aGYO9n37Y8h9iGG%2B6OQb%2BsqW%2FHRXnxlsJuKhSfccvmrs6FUOPyKTAzFs02yf54IYuIWRX7afL8PuLM2W2ejBn2EozkK6%2BmQD%2F9DY1qFQdSQEukxPOs3gSKkdayVQMvd32YDAmzukHfTmHF2qTzD1zdg1hEsmKN4qkkcL36YH1d0HoB%2F%2FVjU8SXrFXVtQZBQM8eElpsHgp11U%2FY%2BP3GA4dJNmCWAq6sD4%2BS89j4DKf%2Fj%2BU%3D&session_key=undefined&iv=0k7%2BbT0SrvVIal4ej5Wilg%3D%3D
+[运行时间：0.167841s] [吞吐率：5.96req/s] [内存消耗：1,695.74kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011oDYIW0UgBSZ1bGFJW0czXIW0oDYIP',
+  'encryptedData' => 'pQNVcH+0/L2y42VgEuK1XNsGlyv/Lh3zGh13ITC8Q5rauvGlGjSpGXt2aS+qtODyMWwyhOrlrSS4FmU0D8niUaWZpchcetAsbNQ27j+n0yGT9XRt4xERNtoJJC8INwpXtgVdKUlbe02DM9cZ8BzPJzvsa2a831XVpbmV9XkksoIyTeCcUX6J4MpZlIFhEQTXueMaMDDkxkGtlKvf+TVxN5/B/ai9d6zXFVgONayiDaXMKBUZ9ZhSKliZHCO323aGYO9n37Y8h9iGG+6OQb+sqW/HRXnxlsJuKhSfccvmrs6FUOPyKTAzFs02yf54IYuIWRX7afL8PuLM2W2ejBn2EozkK6+mQD/9DY1qFQdSQEukxPOs3gSKkdayVQMvd32YDAmzukHfTmHF2qTzD1zdg1hEsmKN4qkkcL36YH1d0HoB//VjU8SXrFXVtQZBQM8eElpsHgp11U/Y+P3GA4dJNmCWAq6sD4+S89j4DKf/j+U=',
+  'session_key' => 'undefined',
+  'iv' => '0k7+bT0SrvVIal4ej5Wilg==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:58+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001sZiar0wGyel1sZJ8r0wewar0sZiaG
+[运行时间：0.190903s] [吞吐率：5.24req/s] [内存消耗：1,693.70kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001sZiar0wGyel1sZJ8r0wewar0sZiaG',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:55:59+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001sZiar0wGyel1sZJ8r0wewar0sZiaG&encryptedData=3vFhajxTDXvKIn5dO0TuAP%2FTcngwQ%2FZf6msQ4jg%2FFc%2FmTb3C3Gll0bEieyMB51pzQ5MXtrlRtuRNT27DoaiQuATDUHtjdvZvbAyVPUM%2Bgnm7deO72iR3XjQjOXaIC6DYUJJ5Ge4kle27miHOFYJ%2BbArRvqjVCMC1CBSwfDPGseNEJ2bROfF1GOfTBGoep8SMGlsy58MO90Vw5Rh9QigFLmNucjFIfAir0LcF8Q7tVQwLAnRBJp66IC%2B3was0h8pndik%2Bnk6xrUkhBx9hFwJxkFKycB3tEaDa6jHKoHdLMhB7X1Nsb90pFHvzprZRa3ZY2G8g4%2BR3%2F7OGdiXjqIDkR6%2BBxb%2FF9vM8n0mhXD9EG%2FecVznWjVLQ6QHGt3a6RogBEhmUkFFkgukgFr1bYQRiWRw5P%2BCiNWtWnrXQzJPsNnGZdKkQ3tTuF5mzon0M8W%2FG2Fm07pOo%2Ft7dVp2rbP0P0li0wDb1V7eD0%2Be2MnltrfA%3D&session_key=XYKsJKCq5lf2HyBs06OLPQ%3D%3D&iv=r3mw%2BqppFQZY3h23r484iQ%3D%3D
+[运行时间：0.163108s] [吞吐率：6.13req/s] [内存消耗：1,695.74kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001sZiar0wGyel1sZJ8r0wewar0sZiaG',
+  'encryptedData' => '3vFhajxTDXvKIn5dO0TuAP/TcngwQ/Zf6msQ4jg/Fc/mTb3C3Gll0bEieyMB51pzQ5MXtrlRtuRNT27DoaiQuATDUHtjdvZvbAyVPUM+gnm7deO72iR3XjQjOXaIC6DYUJJ5Ge4kle27miHOFYJ+bArRvqjVCMC1CBSwfDPGseNEJ2bROfF1GOfTBGoep8SMGlsy58MO90Vw5Rh9QigFLmNucjFIfAir0LcF8Q7tVQwLAnRBJp66IC+3was0h8pndik+nk6xrUkhBx9hFwJxkFKycB3tEaDa6jHKoHdLMhB7X1Nsb90pFHvzprZRa3ZY2G8g4+R3/7OGdiXjqIDkR6+Bxb/F9vM8n0mhXD9EG/ecVznWjVLQ6QHGt3a6RogBEhmUkFFkgukgFr1bYQRiWRw5P+CiNWtWnrXQzJPsNnGZdKkQ3tTuF5mzon0M8W/G2Fm07pOo/t7dVp2rbP0P0li0wDb1V7eD0+e2MnltrfA=',
+  'session_key' => 'XYKsJKCq5lf2HyBs06OLPQ==',
+  'iv' => 'r3mw+qppFQZY3h23r484iQ==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:59:40+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001Z5vv01T4tZV1W11w019gyv01Z5vvr
+[运行时间：0.176351s] [吞吐率：5.67req/s] [内存消耗：1,694.12kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001Z5vv01T4tZV1W11w019gyv01Z5vvr',
+)
+---------------------------------------------------------------
+
+[2020-04-25T16:59:41+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001Z5vv01T4tZV1W11w019gyv01Z5vvr&encryptedData=mke1pUTb4RvDZnrAVO0lEqezGIecZLOdqY70iOZS8TtPgze5ELrUYZI46gTKZpHOVPhsFnNIV%2BVAG%2F8anIyevHq7bZP9j5QgcbGSAUDt8%2B6wD2tRAw1yiGJSg5Nc8QLaS44f7iemh4tzZgzR9wtPvnqC%2BXjrANbjMKRsUaZ4YBTb%2FqNkS4F9UQHf8YlcHjT%2Bn9V%2Bthq%2BENACAYcMkpT%2BJDLm1fRVIm89b2IodkeIBbt8zdJuRQOc2Y7iZxEDF0GOOAkv29Dk%2Fu8abyOe1s7GKqZwJTDc2U52fnFQ%2BaMetoCYiA7D5JuqOb1cPEaS5rb86gjetAaPdSVurRUv3%2FOGJaUSFA3npexHWArbrm8Pa7WhGt8tiJlJAZ%2F3rnUqfHNZRgNauXJqWBJq%2FK3S%2F%2FevIPCzHxgfIfhaAGi0bsNPSTojLZt%2BO6jeUdUuAaFVYUGiVihAH56C2bKfUgjzQZfwisHjcsZyx4moS1xQ4aJMwpk%3D&session_key=dCjdkft%2FThCSSDExmfDujw%3D%3D&iv=w%2FRVdol50hLulInC0zapmg%3D%3D
+[运行时间：0.161880s] [吞吐率：6.18req/s] [内存消耗：1,696.16kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001Z5vv01T4tZV1W11w019gyv01Z5vvr',
+  'encryptedData' => 'mke1pUTb4RvDZnrAVO0lEqezGIecZLOdqY70iOZS8TtPgze5ELrUYZI46gTKZpHOVPhsFnNIV+VAG/8anIyevHq7bZP9j5QgcbGSAUDt8+6wD2tRAw1yiGJSg5Nc8QLaS44f7iemh4tzZgzR9wtPvnqC+XjrANbjMKRsUaZ4YBTb/qNkS4F9UQHf8YlcHjT+n9V+thq+ENACAYcMkpT+JDLm1fRVIm89b2IodkeIBbt8zdJuRQOc2Y7iZxEDF0GOOAkv29Dk/u8abyOe1s7GKqZwJTDc2U52fnFQ+aMetoCYiA7D5JuqOb1cPEaS5rb86gjetAaPdSVurRUv3/OGJaUSFA3npexHWArbrm8Pa7WhGt8tiJlJAZ/3rnUqfHNZRgNauXJqWBJq/K3S//evIPCzHxgfIfhaAGi0bsNPSTojLZt+O6jeUdUuAaFVYUGiVihAH56C2bKfUgjzQZfwisHjcsZyx4moS1xQ4aJMwpk=',
+  'session_key' => 'dCjdkft/ThCSSDExmfDujw==',
+  'iv' => 'w/RVdol50hLulInC0zapmg==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:00:12+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011y0qDb0vNf4y1zbbAb0uFaDb0y0qDF
+[运行时间：0.172600s] [吞吐率：5.79req/s] [内存消耗：1,694.12kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011y0qDb0vNf4y1zbbAb0uFaDb0y0qDF',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:00:12+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?encryptedData=qr1iUHwv5z%2B1uxcDyO6ZPooNpuaZ9vPyL7fBn6K9FfgNtwS5qoPz3zruE9gKDQMHysbQeTaWf7rMMPLzB4ZDEii3D38SHDkLn1fdpfcgg2FLoy34qoUsxPzvT%2Fd64Lteu8eKAqY4G0bz8ei9s4bg02GaxK1NLkbu3O2gq0rwVUheC2QvrLaxhGp4tbd8EsW6D8kN7%2FOCKMkpwsbpt08TVWWrPBx0bD2btLnwVkTLrydi%2Fy4QK5LntsSg6PYVx6sAYoSynCbu6AJYQmVEXEpy3CeXhHSRkkXevh5G0h4vTWZXdHtFcxP%2F%2BwaTyQ77OyETvddQgAMk53xmfmdxR8pNeR2DfeeszQayIBKTi2jRZDZU4gMb9uba6tIm4CA%2BU34X%2B1PID%2BvdLRfwPXzZA%2FLUBuNmaYHtAcq7h4Cjc6wXcvsjSmQhXEYteKxpWToP1VuEGA%2F7hfJzpyE6rThhAHkl%2BgRFqkPm%2FomP%2Buvf%2Bh4W2aE%3D&session_key=dCjdkft%2FThCSSDExmfDujw%3D%3D&iv=4hvP1ZH3MLAtEVCzfs7K%2FA%3D%3D
+[运行时间：0.014783s] [吞吐率：67.65req/s] [内存消耗：1,696.16kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'qr1iUHwv5z+1uxcDyO6ZPooNpuaZ9vPyL7fBn6K9FfgNtwS5qoPz3zruE9gKDQMHysbQeTaWf7rMMPLzB4ZDEii3D38SHDkLn1fdpfcgg2FLoy34qoUsxPzvT/d64Lteu8eKAqY4G0bz8ei9s4bg02GaxK1NLkbu3O2gq0rwVUheC2QvrLaxhGp4tbd8EsW6D8kN7/OCKMkpwsbpt08TVWWrPBx0bD2btLnwVkTLrydi/y4QK5LntsSg6PYVx6sAYoSynCbu6AJYQmVEXEpy3CeXhHSRkkXevh5G0h4vTWZXdHtFcxP/+waTyQ77OyETvddQgAMk53xmfmdxR8pNeR2DfeeszQayIBKTi2jRZDZU4gMb9uba6tIm4CA+U34X+1PID+vdLRfwPXzZA/LUBuNmaYHtAcq7h4Cjc6wXcvsjSmQhXEYteKxpWToP1VuEGA/7hfJzpyE6rThhAHkl+gRFqkPm/omP+uvf+h4W2aE=',
+  'session_key' => 'dCjdkft/ThCSSDExmfDujw==',
+  'iv' => '4hvP1ZH3MLAtEVCzfs7K/A==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:02:16+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=061cJ6g51e4FnR1bCJe5133ng51cJ6gQ
+[运行时间：0.164991s] [吞吐率：6.06req/s] [内存消耗：1,693.52kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061cJ6g51e4FnR1bCJe5133ng51cJ6gQ',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:02:16+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=R%2F771dGUYoyJ1YG5hcdHvF2xA4FWjKPauhZcb3fx8TLnhHyxRQscuqyeKpsCfpDnN5uOuFM%2B%2Fz0ASdmmxCEvwyfOQbYmDHTh6IQ9GJlQqwSn83MqLxY4Jh8dbYIDX8N4CzoYCCSivSVAE5LBzKeiFdrO2mgd5y2LbdE8Nwrg0PzrQuf5Bdb07iu3bypgvQvzfxE8kMfzf4lPudHrk9kSIfYLGKBi05h%2Bvlj9E%2FnlKROnQfbnOU7pgTOjZJh86vt4K2tb1c6c8rT%2BZwEXiM46mYI1sQf6zLzqO%2Bj3oLvT2VoweiQ13DGJNv79yQdANVkc41HYd2TSq6oVFJPOMOnblWCLz7iqHsWJa%2FhfiHl87tgKI7OhusvRkICEIa5k1QukhoJK%2BGwJvIhWjvZgU0Hthlh0yEPAdsfthLyh6gRVi4uTMaWip0M1Dcqkkr06rY%2FMrPCwbL0mxLd9Y%2FzgED82%2FQ25Pbm%2FjSJuJRpcPKDO4qk%3D&session_key=RUKY%2B9ijAFk18GcGkwET2A%3D%3D&iv=OYSil9DZPY%2BWi02uPz3%2BdQ%3D%3D
+[运行时间：0.013753s] [吞吐率：72.71req/s] [内存消耗：1,695.59kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'R/771dGUYoyJ1YG5hcdHvF2xA4FWjKPauhZcb3fx8TLnhHyxRQscuqyeKpsCfpDnN5uOuFM+/z0ASdmmxCEvwyfOQbYmDHTh6IQ9GJlQqwSn83MqLxY4Jh8dbYIDX8N4CzoYCCSivSVAE5LBzKeiFdrO2mgd5y2LbdE8Nwrg0PzrQuf5Bdb07iu3bypgvQvzfxE8kMfzf4lPudHrk9kSIfYLGKBi05h+vlj9E/nlKROnQfbnOU7pgTOjZJh86vt4K2tb1c6c8rT+ZwEXiM46mYI1sQf6zLzqO+j3oLvT2VoweiQ13DGJNv79yQdANVkc41HYd2TSq6oVFJPOMOnblWCLz7iqHsWJa/hfiHl87tgKI7OhusvRkICEIa5k1QukhoJK+GwJvIhWjvZgU0Hthlh0yEPAdsfthLyh6gRVi4uTMaWip0M1Dcqkkr06rY/MrPCwbL0mxLd9Y/zgED82/Q25Pbm/jSJuJRpcPKDO4qk=',
+  'session_key' => 'RUKY+9ijAFk18GcGkwET2A==',
+  'iv' => 'OYSil9DZPY+Wi02uPz3+dQ==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:02:45+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=06175nm22CrBFU0YBHm22QMkm2275nmq
+[运行时间：0.179178s] [吞吐率：5.58req/s] [内存消耗：1,693.55kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '06175nm22CrBFU0YBHm22QMkm2275nmq',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:02:45+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=R5J6IhpD8qcryj8Pm8aSEKqBCjZY9g0v2dcU%2B1z9s7CYBAUKsMph9jP56YYTyon7w9fOvF%2BOFyl2wsxPGeuvbAIhAEC0vAOt6j44ll1BmQu5a0ycnnAu9hHlk1qrVjhB0AYnUojAmo6ekiM9WSKBoYpiSg9DwmzjzEyWGPYS4uRzvx%2BLhx%2FmRl859e%2FS5LtT94oNzYCgli%2Fo8BnQ5oyAZaszcNh5v5U37nDg4lLosg2%2F23kNB8QGnfIIwF4ZEMVF8vAFfeUyNKOXQOlP7g8Nyyq00k%2FIlhY6Uao3icx4kVP1CavCi5rMG1WY2BqdbMrdAi5X3Cs39oCX7TFB1U5lrY8ArNKwFKsCB10h5Lj4bhq5VIagFoS%2FkjibaT9FR3pJ1rhJi3HbDdmUH5bL7lRP9aS5%2ByLjWSB%2BluCg1HAcE9iqvz5Um6OrHiO2%2Baz4EtLFGwMF1opx%2FaSff1b%2FQPrrSErW0E5jrwMuEqwxaCHn8ug%3D&session_key=RUKY%2B9ijAFk18GcGkwET2A%3D%3D&iv=eVtMT3KgF5x7P%2BQxy6lEbw%3D%3D
+[运行时间：0.017727s] [吞吐率：56.41req/s] [内存消耗：1,784.93kb] [文件加载：69]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'R5J6IhpD8qcryj8Pm8aSEKqBCjZY9g0v2dcU+1z9s7CYBAUKsMph9jP56YYTyon7w9fOvF+OFyl2wsxPGeuvbAIhAEC0vAOt6j44ll1BmQu5a0ycnnAu9hHlk1qrVjhB0AYnUojAmo6ekiM9WSKBoYpiSg9DwmzjzEyWGPYS4uRzvx+Lhx/mRl859e/S5LtT94oNzYCgli/o8BnQ5oyAZaszcNh5v5U37nDg4lLosg2/23kNB8QGnfIIwF4ZEMVF8vAFfeUyNKOXQOlP7g8Nyyq00k/IlhY6Uao3icx4kVP1CavCi5rMG1WY2BqdbMrdAi5X3Cs39oCX7TFB1U5lrY8ArNKwFKsCB10h5Lj4bhq5VIagFoS/kjibaT9FR3pJ1rhJi3HbDdmUH5bL7lRP9aS5+yLjWSB+luCg1HAcE9iqvz5Um6OrHiO2+az4EtLFGwMF1opx/aSff1b/QPrrSErW0E5jrwMuEqwxaCHn8ug=',
+  'session_key' => 'RUKY+9ijAFk18GcGkwET2A==',
+  'iv' => 'eVtMT3KgF5x7P+Qxy6lEbw==',
+)
+[ error ] [8]未定义数组索引: sessionKey[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:41]
+---------------------------------------------------------------
+
+[2020-04-25T17:03:06+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001pJsIZ1NEj9V0GzUHZ19VyIZ1pJsIm
+[运行时间：0.208997s] [吞吐率：4.78req/s] [内存消耗：1,693.55kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001pJsIZ1NEj9V0GzUHZ19VyIZ1pJsIm',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:03:06+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=LnG%2F1Wg3CjezaCHFyvNg3qE9oLv%2FguDNM%2FR05lGw4xwxEPnVcpuM9CJ0k9Kvx%2BYBGpszwB6Fvvf7l91fh%2BWir9ajxiJJgK9SxBEN7lBsP%2FPCsMD70zT3qXY1JyuXCy8Qjo0Em%2F2SMU8jNpKat%2FRblWYMDuaF6489Dac9hx3TUGNMtkH3yi78iAs1h7EYbFC92mel688tiTGEoIAFDGmENNTq2RNiCg5tL8lKnFcbL3DhC8FORAQP%2FGFb%2FoxekJOuG0sTk8wLxvAOWGcrAm%2BsXUS1m9dVPlxnPJnU814L8BDjBb9ouWZm%2Fuvs58b42i70M0Xn4QaXiXVvTb6%2BEXg7xaOW08fwe%2Fj8xEz1QjYSynJdUd2rXmb8XnKpExMaN7Znzqa364ecrNHVPI35WH%2F7AA1fkqn1UNiqFRlC4jr1QGvrSmp33zfNlClukOyUXg1osPCXMY942z0waHkZxjVFxRL7Ns8BvlvAtBHmPXbSFd0%3D&session_key=RUKY%2B9ijAFk18GcGkwET2A%3D%3D&iv=XOZ%2FYt3Uloq0ElPpWjK8sQ%3D%3D
+[运行时间：0.017796s] [吞吐率：56.19req/s] [内存消耗：1,784.93kb] [文件加载：69]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'LnG/1Wg3CjezaCHFyvNg3qE9oLv/guDNM/R05lGw4xwxEPnVcpuM9CJ0k9Kvx+YBGpszwB6Fvvf7l91fh+Wir9ajxiJJgK9SxBEN7lBsP/PCsMD70zT3qXY1JyuXCy8Qjo0Em/2SMU8jNpKat/RblWYMDuaF6489Dac9hx3TUGNMtkH3yi78iAs1h7EYbFC92mel688tiTGEoIAFDGmENNTq2RNiCg5tL8lKnFcbL3DhC8FORAQP/GFb/oxekJOuG0sTk8wLxvAOWGcrAm+sXUS1m9dVPlxnPJnU814L8BDjBb9ouWZm/uvs58b42i70M0Xn4QaXiXVvTb6+EXg7xaOW08fwe/j8xEz1QjYSynJdUd2rXmb8XnKpExMaN7Znzqa364ecrNHVPI35WH/7AA1fkqn1UNiqFRlC4jr1QGvrSmp33zfNlClukOyUXg1osPCXMY942z0waHkZxjVFxRL7Ns8BvlvAtBHmPXbSFd0=',
+  'session_key' => 'RUKY+9ijAFk18GcGkwET2A==',
+  'iv' => 'XOZ/Yt3Uloq0ElPpWjK8sQ==',
+)
+[ error ] [8]未定义数组索引: sessionKey[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:41]
+---------------------------------------------------------------
+
+[2020-04-25T17:03:29+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=081S9QWf2BaJ0H0LcUXf26D1Xf2S9QW0
+[运行时间：0.196454s] [吞吐率：5.09req/s] [内存消耗：1,693.52kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081S9QWf2BaJ0H0LcUXf26D1Xf2S9QW0',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:03:29+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=p%2FFeqw8DlxoJeQo9tKAkeph8fLiL8k%2Fu9GcXl2cpBNvyjkYfm1xueuLSZzJNvKEQIPiivGRr8MVppDSqJ%2FeKVg%2Brokm8M6nVBT0y0%2FXogc1UgWCtl2JE7KKgOZ8VsOfrK61sQWR0m%2FGiUOqpRErplLrWuLDrF746d7vGSbPW9JK%2BFbqkTTflj454RuNOrKm%2FhvrmC4qBSCQky2C%2BoRCVI%2FlUF%2F3sqDaJ5TkPAUtcvDhPw%2BB9Z6768FdS0SjiM24Sv7sn%2FyYT5b%2Bvkwu8QXih1Hku8ZhYoHCaksLIQ5DN0qo3RGpyk%2BVq5sTRJEqpc7X%2B%2BOHGJv259%2FQwxQdW1wegyPpbPRr4oTUWqATDjrN9IlHHKMXhXZG1CRkHWQWxofADMW8RNz4TEyvvjduPv2uGmKWu8WXe4eSCV6IZlrZfKV7ZjKvxCEiy2Sk9sZsLUxy2Xu1EIBeaQJYkf8VrhLvilxBV84DcBHFKM9K524s3Hh4%3D&session_key=RUKY%2B9ijAFk18GcGkwET2A%3D%3D&iv=5TFXTOLkBjCXVRi4gYnz%2Fw%3D%3D
+[运行时间：0.020128s] [吞吐率：49.68req/s] [内存消耗：1,785.27kb] [文件加载：69]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'p/Feqw8DlxoJeQo9tKAkeph8fLiL8k/u9GcXl2cpBNvyjkYfm1xueuLSZzJNvKEQIPiivGRr8MVppDSqJ/eKVg+rokm8M6nVBT0y0/Xogc1UgWCtl2JE7KKgOZ8VsOfrK61sQWR0m/GiUOqpRErplLrWuLDrF746d7vGSbPW9JK+FbqkTTflj454RuNOrKm/hvrmC4qBSCQky2C+oRCVI/lUF/3sqDaJ5TkPAUtcvDhPw+B9Z6768FdS0SjiM24Sv7sn/yYT5b+vkwu8QXih1Hku8ZhYoHCaksLIQ5DN0qo3RGpyk+Vq5sTRJEqpc7X++OHGJv259/QwxQdW1wegyPpbPRr4oTUWqATDjrN9IlHHKMXhXZG1CRkHWQWxofADMW8RNz4TEyvvjduPv2uGmKWu8WXe4eSCV6IZlrZfKV7ZjKvxCEiy2Sk9sZsLUxy2Xu1EIBeaQJYkf8VrhLvilxBV84DcBHFKM9K524s3Hh4=',
+  'session_key' => 'RUKY+9ijAFk18GcGkwET2A==',
+  'iv' => '5TFXTOLkBjCXVRi4gYnz/w==',
+)
+[ error ] [8]Accessing static property app\api\controller\WxLogin::$OK as non static[/www/wwwroot/pt.mbacms.com/application/api/controller/WxLogin.php:76]
+---------------------------------------------------------------
+
+[2020-04-25T17:04:01+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011LPUIg25asnG0ziuLg2MZEIg2LPUII
+[运行时间：0.177753s] [吞吐率：5.63req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011LPUIg25asnG0ziuLg2MZEIg2LPUII',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:04:01+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=7RxkhF1jAnhJE4UXR15u4wPLsBiiuPEnLBpKrGb4TpxT71aby1S7tOEF6258ECZ80o4A3oxw%2F4tt6CYL%2BUDO%2Bp3TfKYLUnMbFrXm6AyuGmdOUy4sSZneSmVrG6d17rkINBUQA608bemRjbN3AOmRo9aCdDOnSdTTzYBzWB13sVNTZa3%2Fm2CBPi3VoT9htJqTjbVrGhlbKxgvMZn1%2BIeTTOf2GK0xVP7pus4oSThbmrZbiqFDWqc6BUBeWkjIub0H9ESrIDkodf9BiNAF%2FDSilHIA1YY4sz4AnZtax0ZbY5i6UOpoZkuZO5Jqrh1CtQyRJcaAjx1wB0pqYBfixB1k%2FYKnxO%2BgGleiE8%2Fswdk5wLSmt4zFkZ4XDpkoi3Tfiy0SY5zSphv1FIoBxQkQgwG8okFf4FCgPQxLHjn8nNVtzjlK4WDz%2F9xo5mrRmKgVSj9VUitauAatHnaxWU4%2B0JJUNhY8EJNAs7L76ykAg10oioo%3D&session_key=RUKY%2B9ijAFk18GcGkwET2A%3D%3D&iv=UUso1yMrmICW1Fe9SGalmQ%3D%3D
+[运行时间：0.014830s] [吞吐率：67.43req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => '7RxkhF1jAnhJE4UXR15u4wPLsBiiuPEnLBpKrGb4TpxT71aby1S7tOEF6258ECZ80o4A3oxw/4tt6CYL+UDO+p3TfKYLUnMbFrXm6AyuGmdOUy4sSZneSmVrG6d17rkINBUQA608bemRjbN3AOmRo9aCdDOnSdTTzYBzWB13sVNTZa3/m2CBPi3VoT9htJqTjbVrGhlbKxgvMZn1+IeTTOf2GK0xVP7pus4oSThbmrZbiqFDWqc6BUBeWkjIub0H9ESrIDkodf9BiNAF/DSilHIA1YY4sz4AnZtax0ZbY5i6UOpoZkuZO5Jqrh1CtQyRJcaAjx1wB0pqYBfixB1k/YKnxO+gGleiE8/swdk5wLSmt4zFkZ4XDpkoi3Tfiy0SY5zSphv1FIoBxQkQgwG8okFf4FCgPQxLHjn8nNVtzjlK4WDz/9xo5mrRmKgVSj9VUitauAatHnaxWU4+0JJUNhY8EJNAs7L76ykAg10oioo=',
+  'session_key' => 'RUKY+9ijAFk18GcGkwET2A==',
+  'iv' => 'UUso1yMrmICW1Fe9SGalmQ==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:05:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=081J1tUp1cxoum0ayoUp16msUp1J1tU7
+[运行时间：0.176106s] [吞吐率：5.68req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081J1tUp1cxoum0ayoUp16msUp1J1tU7',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:05:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=pNbV%2FtHfI2ixLVfPDEah3xeT8pTThxJ7%2BilQxb1AsR4wBiHNhyFM%2FDWrvSyZ1Y6M0TuECqGXIDI29iwp38zs7L3n7SupmzuPLoWKnTN0A%2BdZlcYrGlq0v70uz9b5zKQbmgLLI0W%2BXXSHa3dib1CNxH7voLZ%2Fl9KTedOHIV4h3b3QF3ERBPXtKZsWXz4J4K36pRhFK1UDr1O1vg3iPAu7lw9LUy7Y2M1CVC7p6SLZshkz72fJO0a4eBG6ty%2BIAfHSGQFb9amZ%2F6IMLcT49HIe8nymGe33AJnrSXxW%2Ff9StP7vp8kK5ahPUZ9RaBHo6Taf6M7Cz7uJdUvi0SyGaHhoJwHJMp0MgpxvcyUSd2PnJkQIK2StSPEitYGcy91dq6DgqMSf8sM%2F3IrQExtaoa%2BaQbK5PU2By6QO4Bn9TYti9coRceI%2F%2FOa39i7aSyui4JXj0ed1aQVZSU59qJ4AXq00P%2BPUYqfKubs%2FiFpRWLUvh%2B4%3D&session_key=FfYsSYlqddzOukcFWMzraA%3D%3D&iv=kNuvYFkYwDo78jOjKCH%2BYw%3D%3D
+[运行时间：0.014149s] [吞吐率：70.68req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'pNbV/tHfI2ixLVfPDEah3xeT8pTThxJ7+ilQxb1AsR4wBiHNhyFM/DWrvSyZ1Y6M0TuECqGXIDI29iwp38zs7L3n7SupmzuPLoWKnTN0A+dZlcYrGlq0v70uz9b5zKQbmgLLI0W+XXSHa3dib1CNxH7voLZ/l9KTedOHIV4h3b3QF3ERBPXtKZsWXz4J4K36pRhFK1UDr1O1vg3iPAu7lw9LUy7Y2M1CVC7p6SLZshkz72fJO0a4eBG6ty+IAfHSGQFb9amZ/6IMLcT49HIe8nymGe33AJnrSXxW/f9StP7vp8kK5ahPUZ9RaBHo6Taf6M7Cz7uJdUvi0SyGaHhoJwHJMp0MgpxvcyUSd2PnJkQIK2StSPEitYGcy91dq6DgqMSf8sM/3IrQExtaoa+aQbK5PU2By6QO4Bn9TYti9coRceI//Oa39i7aSyui4JXj0ed1aQVZSU59qJ4AXq00P+PUYqfKubs/iFpRWLUvh+4=',
+  'session_key' => 'FfYsSYlqddzOukcFWMzraA==',
+  'iv' => 'kNuvYFkYwDo78jOjKCH+Yw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:12:58+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001xfye0294qNW0VHrc027rAe02xfyeg
+[运行时间：0.180695s] [吞吐率：5.53req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001xfye0294qNW0VHrc027rAe02xfyeg',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:13:24+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0018737716a8PN1XZD571Od27718737m
+[运行时间：0.175762s] [吞吐率：5.69req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0018737716a8PN1XZD571Od27718737m',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:13:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=WcvAwnfeuZ9gGEB6OUAbO6%2FwpRutuA4z7Hz4pnepqAskwu0wRgPVmgMOkrHQhNRPiXIbki5eu9U2KeKoWJ4Uqks%2BfH4WoK2%2BpyDg%2FDyz4HVCy5OlThTXdpEd65tV55hWNRsCyEPecbjSIKxZKhUYHOn77xGqIguCJY%2BuhPw3tvmG24rqzslaXQDAE191h92UnAWgh%2B9Lrtvof4jD71RxCYi5fyXy7J7s5htZ8g%2FISmF%2BQu1%2FWR7kl3P%2FJROO8485uqy5RVq7KeyIYqgmd9DmcAs2%2FyLarMYSMbOvlGjvidu%2F7rNcvNmpGHgJbKOaolUHbywx%2BwAKQ0OblWtlYpKFuuFJ2spI2%2FHFmpI%2F6QK8DagrsK7y31NpT13bOIxu6SZ06D9LRFnWse36IJty%2BW%2FJUfntTHf95pBoFf8d9saeTPQi87BeiSiCerC7eyfdAuVG%2BcnH6ITPrk7msCznFOOUgZC6dxuHVd5J0t%2FW75jpgEk%3D&session_key=0FyIl6PaLu94qO6Bx0dmYw%3D%3D&iv=AAiNsEWnWKfmBtPvGS8tRw%3D%3D
+[运行时间：0.014817s] [吞吐率：67.49req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'WcvAwnfeuZ9gGEB6OUAbO6/wpRutuA4z7Hz4pnepqAskwu0wRgPVmgMOkrHQhNRPiXIbki5eu9U2KeKoWJ4Uqks+fH4WoK2+pyDg/Dyz4HVCy5OlThTXdpEd65tV55hWNRsCyEPecbjSIKxZKhUYHOn77xGqIguCJY+uhPw3tvmG24rqzslaXQDAE191h92UnAWgh+9Lrtvof4jD71RxCYi5fyXy7J7s5htZ8g/ISmF+Qu1/WR7kl3P/JROO8485uqy5RVq7KeyIYqgmd9DmcAs2/yLarMYSMbOvlGjvidu/7rNcvNmpGHgJbKOaolUHbywx+wAKQ0OblWtlYpKFuuFJ2spI2/HFmpI/6QK8DagrsK7y31NpT13bOIxu6SZ06D9LRFnWse36IJty+W/JUfntTHf95pBoFf8d9saeTPQi87BeiSiCerC7eyfdAuVG+cnH6ITPrk7msCznFOOUgZC6dxuHVd5J0t/W75jpgEk=',
+  'session_key' => '0FyIl6PaLu94qO6Bx0dmYw==',
+  'iv' => 'AAiNsEWnWKfmBtPvGS8tRw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:10+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=021RqPx70xTDWB1XQAA70pGTx70RqPxp
+[运行时间：0.183306s] [吞吐率：5.46req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '021RqPx70xTDWB1XQAA70pGTx70RqPxp',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:11+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=H7V%2FX74%2Fc5pH0I4%2FqiXkTofDoqP93s9SsiLMvtBTkkBp4tPbzLna486Qb31Vz6GOBCoIc8B%2FTnx4vJaZcTqJ0avXaIk%2FOBM0VPG%2F1KjTTyBnDPwbHvfnpEqBK6wwl%2FVvz3lHFxl2P3HH2uRvfFhtwdqzAggN1bZm81yv6yKmfDXy2uPzR1FYBsEpCvLSW3pWNHPkSKcUsOeonoQiI%2BHWYEA6TxFaTOihORWfI5mKjgSstJLssdxkLP%2BZHXvKJ7OfJgLw1GkxCFpQK59J6ejpIsHPWaaMR1ytF%2FxO%2FTgmC%2BzwBt%2F8zSJkb%2F7rnPMhQUPlrnhXmbPEBxDscwz1MP6TeFoPkIjMYv9zhmyY8vnz88pkWTR8mKjsaN8G61WyPYaU9odNe7dqMSLl%2BJolzUsJe01Ve0QAw1Lwwps%2FjnEu%2Fp8QZAPaaGULDOtwPrXhOPKIa22oFbyad2I5dFylP2LSmlUfmtAN3jTuDyPiphPR5fc%3D&session_key=jjGYDR1nzrpuu8a4hZH6Yw%3D%3D&iv=03l5ZSgsBEL%2Bg800%2BBsmCA%3D%3D
+[运行时间：0.014823s] [吞吐率：67.46req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'H7V/X74/c5pH0I4/qiXkTofDoqP93s9SsiLMvtBTkkBp4tPbzLna486Qb31Vz6GOBCoIc8B/Tnx4vJaZcTqJ0avXaIk/OBM0VPG/1KjTTyBnDPwbHvfnpEqBK6wwl/Vvz3lHFxl2P3HH2uRvfFhtwdqzAggN1bZm81yv6yKmfDXy2uPzR1FYBsEpCvLSW3pWNHPkSKcUsOeonoQiI+HWYEA6TxFaTOihORWfI5mKjgSstJLssdxkLP+ZHXvKJ7OfJgLw1GkxCFpQK59J6ejpIsHPWaaMR1ytF/xO/TgmC+zwBt/8zSJkb/7rnPMhQUPlrnhXmbPEBxDscwz1MP6TeFoPkIjMYv9zhmyY8vnz88pkWTR8mKjsaN8G61WyPYaU9odNe7dqMSLl+JolzUsJe01Ve0QAw1Lwwps/jnEu/p8QZAPaaGULDOtwPrXhOPKIa22oFbyad2I5dFylP2LSmlUfmtAN3jTuDyPiphPR5fc=',
+  'session_key' => 'jjGYDR1nzrpuu8a4hZH6Yw==',
+  'iv' => '03l5ZSgsBEL+g800+BsmCA==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:16+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001xMVww1jrkLf013jxw1SBwww1xMVwh
+[运行时间：0.183066s] [吞吐率：5.46req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001xMVww1jrkLf013jxw1SBwww1xMVwh',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:16+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=yhSh%2FMjG1ELE9FCzmeDKBwT1WiyFXd%2BV8MkmZwCouUTkDfQbN0qJs1jGSdpkCifdF56bq17kWV9jOYfv8Fxv2SyLI9qaEws2Vs1rlG727cG8LI89iElTC00nst%2FOHY5LyTq%2BuHFmAgFQUtDccrDdoVjZrqn91qd1uK5mKPkzdHUh74r90t9%2F7RAxu4aEcxsPxtPcbcyJF8O3EIr7sAcA3YYEvKhPwhBSUSflXBl%2B6Ga1VdWYL6Ggi%2FaStStKL6yXi%2B%2BF%2Fr2RV%2FvADzFN%2BTuFf1ICRnfWAbwTGxTLYEhcs4R7crkemeRxQ95Kdrux9ncYHZX0%2FmvHI9FFeeloZWgUAAdSXL3ar58ZEsNMlZSAep4fkkJtkSnDhM8CiXX1YDwyy50Zqf%2BFwjuXbymtdGS5v7faK8QtxpGyauEIsSrLNgeno0Dfq9S0DRz7nvKwsi5VH0djc9QmlhIzilPT00ZmGXnyNRG2lFroapu5%2FGe1hp4%3D&session_key=jjGYDR1nzrpuu8a4hZH6Yw%3D%3D&iv=ndWti1SxddkepDrV0O%2BSmQ%3D%3D
+[运行时间：0.013893s] [吞吐率：71.98req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'yhSh/MjG1ELE9FCzmeDKBwT1WiyFXd+V8MkmZwCouUTkDfQbN0qJs1jGSdpkCifdF56bq17kWV9jOYfv8Fxv2SyLI9qaEws2Vs1rlG727cG8LI89iElTC00nst/OHY5LyTq+uHFmAgFQUtDccrDdoVjZrqn91qd1uK5mKPkzdHUh74r90t9/7RAxu4aEcxsPxtPcbcyJF8O3EIr7sAcA3YYEvKhPwhBSUSflXBl+6Ga1VdWYL6Ggi/aStStKL6yXi++F/r2RV/vADzFN+TuFf1ICRnfWAbwTGxTLYEhcs4R7crkemeRxQ95Kdrux9ncYHZX0/mvHI9FFeeloZWgUAAdSXL3ar58ZEsNMlZSAep4fkkJtkSnDhM8CiXX1YDwyy50Zqf+FwjuXbymtdGS5v7faK8QtxpGyauEIsSrLNgeno0Dfq9S0DRz7nvKwsi5VH0djc9QmlhIzilPT00ZmGXnyNRG2lFroapu5/Ge1hp4=',
+  'session_key' => 'jjGYDR1nzrpuu8a4hZH6Yw==',
+  'iv' => 'ndWti1SxddkepDrV0O+SmQ==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:21+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=081zQa9p08tilk1L389p0E9w9p0zQa9u
+[运行时间：0.176532s] [吞吐率：5.66req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081zQa9p08tilk1L389p0E9w9p0zQa9u',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:21+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=rie04GT7oEmMb0i%2BsAB2RA1hUr2ikCeaaSam4GJ4XeIq%2FBIygI22t54DgW%2FRK9GRSfdBu5Vq%2BCyiDjY4Gs4TgiPS2NzAv4FAq6SE2xS6dmqa53kxHIbPJVSC2Yh6s1kDJ22ymeiMEtskSLuSv1NH6KB5xnBPtZTbC45LSstrCS%2FvbRLSHQzH3ujTEXvt1ewiQUVjWRIE2l8CFgxBFea7zzq2DzA5ybXE6emnsXiwHwkJZVEiAGoNvHBzEDmxVZHx7ju5cO1GgUcZgflmtW82HhKeCpR8kkX3wQg9dUvdRDA7xkCiE9F1c7xLYKOrjoMUn7hhgMaYrwEqrO6SKi64NcCanVHfiYe0sMqaRtev6s0uR%2BJUqEYP15kzy4D865LcNq3EsfwDr2ES5R4jRmPjC0cQoPC8yZSCCRACjlnkoAWm%2BALrCqT%2BXt58RCjbKp2vsSDALV%2Fu5aq%2FnEwI4aythMERhRULJcFI9NWAXlNtdMU%3D&session_key=jjGYDR1nzrpuu8a4hZH6Yw%3D%3D&iv=r3n8abBkSGMMgWTFyy8fhw%3D%3D
+[运行时间：0.014889s] [吞吐率：67.16req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'rie04GT7oEmMb0i+sAB2RA1hUr2ikCeaaSam4GJ4XeIq/BIygI22t54DgW/RK9GRSfdBu5Vq+CyiDjY4Gs4TgiPS2NzAv4FAq6SE2xS6dmqa53kxHIbPJVSC2Yh6s1kDJ22ymeiMEtskSLuSv1NH6KB5xnBPtZTbC45LSstrCS/vbRLSHQzH3ujTEXvt1ewiQUVjWRIE2l8CFgxBFea7zzq2DzA5ybXE6emnsXiwHwkJZVEiAGoNvHBzEDmxVZHx7ju5cO1GgUcZgflmtW82HhKeCpR8kkX3wQg9dUvdRDA7xkCiE9F1c7xLYKOrjoMUn7hhgMaYrwEqrO6SKi64NcCanVHfiYe0sMqaRtev6s0uR+JUqEYP15kzy4D865LcNq3EsfwDr2ES5R4jRmPjC0cQoPC8yZSCCRACjlnkoAWm+ALrCqT+Xt58RCjbKp2vsSDALV/u5aq/nEwI4aythMERhRULJcFI9NWAXlNtdMU=',
+  'session_key' => 'jjGYDR1nzrpuu8a4hZH6Yw==',
+  'iv' => 'r3n8abBkSGMMgWTFyy8fhw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:34+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001ITfgp0GLprk1O3Oep05cagp0ITfgi
+[运行时间：0.186591s] [吞吐率：5.36req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001ITfgp0GLprk1O3Oep05cagp0ITfgi',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:34+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=I%2BePVlCD69jyZoaJ1VYbT4WXhck3M2nbet%2BYZBSoJ1lPqJRZc7xMv9So2UPV8xc7Z0GoPdMEQFpZu5sxyij3lvlcyz7SePbd8ExGMREt6gxWzA7ES3KKpcXmeQCw1PZrLBHzoJowofTmtqxsjPH076xcLeRmPovhv%2FuIjU1OWSbYJ60rlhIaasKnzxctbSTzbMxc%2FLR%2FtKVODQqLqO%2B6Bp47Vm%2BneqwHTd%2FXoSlL60BEtjYn3spKUX8Y27IAJnCDCM8E8d6PGjaq4vrydQi2JtNqqMVr2860nWkD%2FSZO0U4bPh35xLRSVWxo5ChHtDIC9hdB7nVe6PCpD1o8dTsjEOSs21Rl4YRU1vbQwd8hG9zOsjwgKAMAbKSXY%2FvXe5t1Z4cxVKTSEhs3CW%2By5km2pCoW0lAfQEyHQp8vf%2FnnoEUcM2l8sDDbiMCV%2B2ZDRFtmo6gjrlxakMMNQdKb9PVvlrnR0ZDh4yshcP%2Fw%2BICFowc%3D&session_key=jjGYDR1nzrpuu8a4hZH6Yw%3D%3D&iv=u%2B5rhqHsJvhe8%2Ft8lJCa5Q%3D%3D
+[运行时间：0.015025s] [吞吐率：66.56req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'I+ePVlCD69jyZoaJ1VYbT4WXhck3M2nbet+YZBSoJ1lPqJRZc7xMv9So2UPV8xc7Z0GoPdMEQFpZu5sxyij3lvlcyz7SePbd8ExGMREt6gxWzA7ES3KKpcXmeQCw1PZrLBHzoJowofTmtqxsjPH076xcLeRmPovhv/uIjU1OWSbYJ60rlhIaasKnzxctbSTzbMxc/LR/tKVODQqLqO+6Bp47Vm+neqwHTd/XoSlL60BEtjYn3spKUX8Y27IAJnCDCM8E8d6PGjaq4vrydQi2JtNqqMVr2860nWkD/SZO0U4bPh35xLRSVWxo5ChHtDIC9hdB7nVe6PCpD1o8dTsjEOSs21Rl4YRU1vbQwd8hG9zOsjwgKAMAbKSXY/vXe5t1Z4cxVKTSEhs3CW+y5km2pCoW0lAfQEyHQp8vf/nnoEUcM2l8sDDbiMCV+2ZDRFtmo6gjrlxakMMNQdKb9PVvlrnR0ZDh4yshcP/w+ICFowc=',
+  'session_key' => 'jjGYDR1nzrpuu8a4hZH6Yw==',
+  'iv' => 'u+5rhqHsJvhe8/t8lJCa5Q==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:54+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=061MB3UI0NnZyd2ZDfSI0g9gUI0MB3UZ
+[运行时间：0.193905s] [吞吐率：5.16req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061MB3UI0NnZyd2ZDfSI0g9gUI0MB3UZ',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:16:57+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0218HeIx1XORnc0vt1Hx1xE8Ix18HeIH
+[运行时间：0.182361s] [吞吐率：5.48req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0218HeIx1XORnc0vt1Hx1xE8Ix18HeIH',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:01+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011BqGoP0sWfz72hJepP0QnZoP0BqGo1
+[运行时间：0.218168s] [吞吐率：4.58req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011BqGoP0sWfz72hJepP0QnZoP0BqGo1',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:01+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=081ivX6h2jhtED0NmF8h2fU87h2ivX6x
+[运行时间：0.197656s] [吞吐率：5.06req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081ivX6h2jhtED0NmF8h2fU87h2ivX6x',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:01+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=EL5x70LFDBwsCc%2Fe4mk1aIc9rBmeeEpmwGKboAzxQCCiQB43YujGI3Y0vlaX65E4vMye5cowOF5xbEpkhhv%2Bt%2B6fVwS1ljtVpHz4A9LNINbgD9V6ZlbVunsd3AwMV%2FsuLWu%2FFxxFvic1byZhOknLwQVUYbDWrfzsk4sjiSfV4F0lAxtQn1Aa78DUfo4f0qEH3QqnbX9dO8o5O%2BVKUUORyPtKk8hph6yjHkPUQz39GYQofaDvnOG6Gxq4Ev6l4nZJLxg6U0Wb2iR64sU7vQYdEE2CEkW6UGhPH3Jp22SjIoIRabrPxC9gXoRAxNnbEhfRb3nAn6FRDJLSe4Wz5t%2Fh1UyMVkNmHaxeLR0xdd7qdMdFhoxvtzcn7qk%2FgPiZs%2FVVTfETHsk6ZNergXKN0k2xGUDFTdBGFxrW6%2Bly2QqDdAQN1oeOAgLkW%2BNNX7AWmRQRR2Motfp070n5Cntvh%2BFCHVDHq%2Bu6jjO%2BDqNWpBc%2B5B8%3D&session_key=VgmE9dpuIClih%2BvQYFPAUQ%3D%3D&iv=1jWsWVsbXj4KC2DH%2FEpHAw%3D%3D
+[运行时间：0.014259s] [吞吐率：70.13req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'EL5x70LFDBwsCc/e4mk1aIc9rBmeeEpmwGKboAzxQCCiQB43YujGI3Y0vlaX65E4vMye5cowOF5xbEpkhhv+t+6fVwS1ljtVpHz4A9LNINbgD9V6ZlbVunsd3AwMV/suLWu/FxxFvic1byZhOknLwQVUYbDWrfzsk4sjiSfV4F0lAxtQn1Aa78DUfo4f0qEH3QqnbX9dO8o5O+VKUUORyPtKk8hph6yjHkPUQz39GYQofaDvnOG6Gxq4Ev6l4nZJLxg6U0Wb2iR64sU7vQYdEE2CEkW6UGhPH3Jp22SjIoIRabrPxC9gXoRAxNnbEhfRb3nAn6FRDJLSe4Wz5t/h1UyMVkNmHaxeLR0xdd7qdMdFhoxvtzcn7qk/gPiZs/VVTfETHsk6ZNergXKN0k2xGUDFTdBGFxrW6+ly2QqDdAQN1oeOAgLkW+NNX7AWmRQRR2Motfp070n5Cntvh+FCHVDHq+u6jjO+DqNWpBc+5B8=',
+  'session_key' => 'VgmE9dpuIClih+vQYFPAUQ==',
+  'iv' => '1jWsWVsbXj4KC2DH/EpHAw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:02+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=Vzizy28tXXHZeaJxb53rjGM4JTf9GVsU%2BqSzaLPlb4AvCJN332vEx%2B%2FsDVvGKJZhPKro9UfCo8af1NLAo4HYD39hhJa86rW1GCa5%2BDgDNn6ErdseodPjNzRiK%2FwW2b0fJqe%2B61lkOMOk0IGETx1GF7%2Bn8ZhGjGxxpe81v5SKXhuIaH1tMozVeZKSFZRj4LWxIVcdGoXT5hY6wDzVtXsxtwznp6lSKEQ2PR6NLgAGWwvG8DIrX6InRs3ar%2BT%2BACFqTAa9rUAxHsFqo8BOM3kPu2KzxigiUFsPQxXClgjdnOQLG2u4F4bAc4yLCWgqv4ZR53ZDRyRI79AOxemoeEOe4Kgp8to%2FJxkJAWLmndF4Z04LJAshSDDhbKlyxm2oGuyKEAu0yPqCp%2BsQTa6F1Mcjk5Fn5MVEAPGnVOJeoPyTaj7Oc1glbmV0auYk8ffxhiR4OqElja9H5lrljuFPc8qxF1IK1AUvfzI6YH329oaJGmI%3D&session_key=VgmE9dpuIClih%2BvQYFPAUQ%3D%3D&iv=AUWAe7dz0%2FcL9Wt59F1VWw%3D%3D
+[运行时间：0.013890s] [吞吐率：71.99req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'Vzizy28tXXHZeaJxb53rjGM4JTf9GVsU+qSzaLPlb4AvCJN332vEx+/sDVvGKJZhPKro9UfCo8af1NLAo4HYD39hhJa86rW1GCa5+DgDNn6ErdseodPjNzRiK/wW2b0fJqe+61lkOMOk0IGETx1GF7+n8ZhGjGxxpe81v5SKXhuIaH1tMozVeZKSFZRj4LWxIVcdGoXT5hY6wDzVtXsxtwznp6lSKEQ2PR6NLgAGWwvG8DIrX6InRs3ar+T+ACFqTAa9rUAxHsFqo8BOM3kPu2KzxigiUFsPQxXClgjdnOQLG2u4F4bAc4yLCWgqv4ZR53ZDRyRI79AOxemoeEOe4Kgp8to/JxkJAWLmndF4Z04LJAshSDDhbKlyxm2oGuyKEAu0yPqCp+sQTa6F1Mcjk5Fn5MVEAPGnVOJeoPyTaj7Oc1glbmV0auYk8ffxhiR4OqElja9H5lrljuFPc8qxF1IK1AUvfzI6YH329oaJGmI=',
+  'session_key' => 'VgmE9dpuIClih+vQYFPAUQ==',
+  'iv' => 'AUWAe7dz0/cL9Wt59F1VWw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:17+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=011PBD6v19O3me0eqM8v19UC6v1PBD67
+[运行时间：0.192881s] [吞吐率：5.18req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '011PBD6v19O3me0eqM8v19UC6v1PBD67',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:23+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=081kgt7j27ob5B0y9O7j25hx7j2kgt7V
+[运行时间：0.191438s] [吞吐率：5.22req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081kgt7j27ob5B0y9O7j25hx7j2kgt7V',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:23+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=THAcoUoKmrxokQoyZ4KlWhKJ8KC%2BaeoWdQOcl7hKdz4fnv37bbEOiBT4KcT6dfJFWAyFyJ6LBumnlO6xMez5CF0KjNAo7MWeZhAjvUYiyrUZ8lPhfRT5JgZB2OvwjfU8BWVCKq%2FfoD95bQWqFiR2RNv18MXBUyJ1akorO6npbdjQw%2FlzZTPCSI3582IqE1C%2FGyltWl4wNa6uVa2PjKy%2F5qtlGgQSuRAqLKtpKCThph9RrVB5qYA1b0bAj6lY%2Fi1pQlmGvzoQlz0flmFEXzFHHy7ZXQyDtKauklUxgjIuDDhdk6mVILLqEX85zOIWYPZ5hYUHb%2BgOEFU0m%2FebMrHaLvoo0lmmiTwAnQHZvBw2Lomm%2FZopHvZbeVa245PHUY7l1Ayqxl3qtDpepSqHhCS1v1pzhb%2FQ%2FFU3RNDLAkwwlMjJmG8lNpR3RxOaiEKpeFFn5I7udxRCC6Ejg2o3RmcQDU2l2UUiAytscQHrFUo2OEk%3D&session_key=nniRRBdypbJkHsCHoKoycw%3D%3D&iv=j4lU%2Bmb6O7tT2thZcVWceQ%3D%3D
+[运行时间：0.014542s] [吞吐率：68.77req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'THAcoUoKmrxokQoyZ4KlWhKJ8KC+aeoWdQOcl7hKdz4fnv37bbEOiBT4KcT6dfJFWAyFyJ6LBumnlO6xMez5CF0KjNAo7MWeZhAjvUYiyrUZ8lPhfRT5JgZB2OvwjfU8BWVCKq/foD95bQWqFiR2RNv18MXBUyJ1akorO6npbdjQw/lzZTPCSI3582IqE1C/GyltWl4wNa6uVa2PjKy/5qtlGgQSuRAqLKtpKCThph9RrVB5qYA1b0bAj6lY/i1pQlmGvzoQlz0flmFEXzFHHy7ZXQyDtKauklUxgjIuDDhdk6mVILLqEX85zOIWYPZ5hYUHb+gOEFU0m/ebMrHaLvoo0lmmiTwAnQHZvBw2Lomm/ZopHvZbeVa245PHUY7l1Ayqxl3qtDpepSqHhCS1v1pzhb/Q/FU3RNDLAkwwlMjJmG8lNpR3RxOaiEKpeFFn5I7udxRCC6Ejg2o3RmcQDU2l2UUiAytscQHrFUo2OEk=',
+  'session_key' => 'nniRRBdypbJkHsCHoKoycw==',
+  'iv' => 'j4lU+mb6O7tT2thZcVWceQ==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:55+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=021ZUTdJ0q6PSd25U4gJ0a6aeJ0ZUTd8
+[运行时间：0.173627s] [吞吐率：5.76req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '021ZUTdJ0q6PSd25U4gJ0a6aeJ0ZUTd8',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:55:56+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=D5maRYyfIfHWDy57MwAgAcAoWznTf6wr5ZLdcLuq9mY9Ndbq0b2JWVZQRtO0fEvY5VCep%2FrWlfoHxK1PEPDhJ6UDSAz0VDuOqqKx%2FKpjtUsiawPjtLiDOHq8bLqusL4NrZffrNL4yxKHIzR8uGXAEo%2Fyz%2FIMshQM6g5iCIg370ShUQMJDtWu8iq%2BJucP5aaE5plkGLinm9N%2FINzHt3YSGUsjvpzCxOMFkMJy%2BoIP6eSdE02mmrVveQQhSN0YfTRU0Ajwe2yh8N9qXPHiYXz4uMENVi2T%2F3Qv2d2qRATjMZgXHqEd%2F5dDRIUxf%2FSZ3iWEvnnGawUkLc6AXPsCc4UinWB511tVf2dGGB2jkzw8aahn3URRT%2Fs%2BMmOmabno%2FvTPhkcUjHP%2FjAXQkd7j1XteTlNM3XK0FA0DKymJhRT44AuGvOkh016hryM4bEPQFytIutttq7tEqj5lwizqXO0Gqz6zezeo%2BzMHQ1MY5zib04A%3D&session_key=nniRRBdypbJkHsCHoKoycw%3D%3D&iv=At1ngDKct2kq5VzGad7pbg%3D%3D
+[运行时间：0.014341s] [吞吐率：69.73req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'D5maRYyfIfHWDy57MwAgAcAoWznTf6wr5ZLdcLuq9mY9Ndbq0b2JWVZQRtO0fEvY5VCep/rWlfoHxK1PEPDhJ6UDSAz0VDuOqqKx/KpjtUsiawPjtLiDOHq8bLqusL4NrZffrNL4yxKHIzR8uGXAEo/yz/IMshQM6g5iCIg370ShUQMJDtWu8iq+JucP5aaE5plkGLinm9N/INzHt3YSGUsjvpzCxOMFkMJy+oIP6eSdE02mmrVveQQhSN0YfTRU0Ajwe2yh8N9qXPHiYXz4uMENVi2T/3Qv2d2qRATjMZgXHqEd/5dDRIUxf/SZ3iWEvnnGawUkLc6AXPsCc4UinWB511tVf2dGGB2jkzw8aahn3URRT/s+MmOmabno/vTPhkcUjHP/jAXQkd7j1XteTlNM3XK0FA0DKymJhRT44AuGvOkh016hryM4bEPQFytIutttq7tEqj5lwizqXO0Gqz6zezeo+zMHQ1MY5zib04A=',
+  'session_key' => 'nniRRBdypbJkHsCHoKoycw==',
+  'iv' => 'At1ngDKct2kq5VzGad7pbg==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:56:36+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=071r9OXM1kjtF91iXjWM12szXM1r9OXt
+[运行时间：0.168316s] [吞吐率：5.94req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '071r9OXM1kjtF91iXjWM12szXM1r9OXt',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:56:36+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=yjcDoBcZzbFZr663hO%2Bdye7PbdBBuYZJEM48HozLMPoBd2WtpPuqijxcYQMI4RCz3SEKwXKnGdLKhZu%2BKgo0Vblt2ZQvF%2BuWCPVd7VLT78%2FHv5VXwhEp8qqffuNEPuGouTFpZX%2B1TCeMNiROGv7GPxS6BuNWbqtsl1yRKH%2Fz9uni8YSOWKsZ8IM1jj6ws3drrk3HINRWjgECNGY0rP375EvACaatduQmxHMP4%2B66qeVkdYVH0LgR3eAku2se%2FcqkNuZwKhwoHU6v00C2492Kxp445vatzn31MRNmOIKBg0g8JTVGHGTiBu1V%2F7ipcpS%2BhwwvWgmBkTKeJbIqSyH20fw43xdHkG6UORqlGiqsH4sWUDEswUbMO5baXp3%2FgUy1G8Ywqe2VUyEzrrjUypS%2BBqPC1lbMERtqVHmmDofYlYXKdZ04D9xWZcNHRJPdGtrI3ekA5ICVzoVznlV%2F3CX9Xnu2VE%2FU3xj7yTez3n0OyF4%3D&session_key=nniRRBdypbJkHsCHoKoycw%3D%3D&iv=AvfXHXpUtndMfeOyB4bUMg%3D%3D
+[运行时间：0.014631s] [吞吐率：68.35req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'yjcDoBcZzbFZr663hO+dye7PbdBBuYZJEM48HozLMPoBd2WtpPuqijxcYQMI4RCz3SEKwXKnGdLKhZu+Kgo0Vblt2ZQvF+uWCPVd7VLT78/Hv5VXwhEp8qqffuNEPuGouTFpZX+1TCeMNiROGv7GPxS6BuNWbqtsl1yRKH/z9uni8YSOWKsZ8IM1jj6ws3drrk3HINRWjgECNGY0rP375EvACaatduQmxHMP4+66qeVkdYVH0LgR3eAku2se/cqkNuZwKhwoHU6v00C2492Kxp445vatzn31MRNmOIKBg0g8JTVGHGTiBu1V/7ipcpS+hwwvWgmBkTKeJbIqSyH20fw43xdHkG6UORqlGiqsH4sWUDEswUbMO5baXp3/gUy1G8Ywqe2VUyEzrrjUypS+BqPC1lbMERtqVHmmDofYlYXKdZ04D9xWZcNHRJPdGtrI3ekA5ICVzoVznlV/3CX9Xnu2VE/U3xj7yTez3n0OyF4=',
+  'session_key' => 'nniRRBdypbJkHsCHoKoycw==',
+  'iv' => 'AvfXHXpUtndMfeOyB4bUMg==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:58:09+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=001RwCIR1tG7l51CMcHR1TzPIR1RwCIY
+[运行时间：0.169188s] [吞吐率：5.91req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001RwCIR1tG7l51CMcHR1TzPIR1RwCIY',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:58:09+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=mz4bTMTBE9J7wmCxomZdsGJSbvb0jOI5%2Fs6GP%2BHkYU1V9BkX5azq02%2FrTTY2N4oz9r%2B6RiDlqkzJn94nTT6Z%2FcDO7lofKT2B5qq%2B97P%2Bu42hI6j%2BkFY%2FUL39GCVZHTgaPJjymf25xyJONJda7Cc1Iks03yOO3CahF9lcTVAsb67EYziLXwEksX%2FKnKC4aDCedb1NGdVD1EMUXTsg0iME2ijWAt5RMnZT0FoNUcwRECbVY4V5aY2gFcPWOphVzKz0K9g0H6%2FZe2BxCnH2MY%2BJEM%2FABV3RgytJZcH8KPxDsHyT6yTnXcGCTu7ERNA15Xam3jCbiz5UuJAJkhEQui4hlSrUQSCoUAHQpz4El0yf%2ByoGhhesCMruyg%2B3zfTVpJaMUzSc6hRQaq5n30DKPalmEw61LfIf72BCFpNvvF7A6bKulxwBIG72kxxgZEd0DKi5B25Fio8iIa7%2Fn%2B2m7at1HjREAgY2JM4miscjR5mXJ80%3D&session_key=mVufdCh8Do0KCjJyE%2BCX1g%3D%3D&iv=bzgN8kYOPRzCliRwZerapw%3D%3D
+[运行时间：0.014373s] [吞吐率：69.57req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'mz4bTMTBE9J7wmCxomZdsGJSbvb0jOI5/s6GP+HkYU1V9BkX5azq02/rTTY2N4oz9r+6RiDlqkzJn94nTT6Z/cDO7lofKT2B5qq+97P+u42hI6j+kFY/UL39GCVZHTgaPJjymf25xyJONJda7Cc1Iks03yOO3CahF9lcTVAsb67EYziLXwEksX/KnKC4aDCedb1NGdVD1EMUXTsg0iME2ijWAt5RMnZT0FoNUcwRECbVY4V5aY2gFcPWOphVzKz0K9g0H6/Ze2BxCnH2MY+JEM/ABV3RgytJZcH8KPxDsHyT6yTnXcGCTu7ERNA15Xam3jCbiz5UuJAJkhEQui4hlSrUQSCoUAHQpz4El0yf+yoGhhesCMruyg+3zfTVpJaMUzSc6hRQaq5n30DKPalmEw61LfIf72BCFpNvvF7A6bKulxwBIG72kxxgZEd0DKi5B25Fio8iIa7/n+2m7at1HjREAgY2JM4miscjR5mXJ80=',
+  'session_key' => 'mVufdCh8Do0KCjJyE+CX1g==',
+  'iv' => 'bzgN8kYOPRzCliRwZerapw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:58:42+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=0012hL8v1qiaoe0wbI6v14xX8v12hL8N
+[运行时间：0.163497s] [吞吐率：6.12req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0012hL8v1qiaoe0wbI6v14xX8v12hL8N',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:58:43+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=iHVwDHqwZntMOjVyiIb9t73khwjyzfRuNvkMyFWWUfVGDV%2BUsRhqO8e5ECyEkYTvR09hcit4L9TpvkP%2BNh1P2Xyab8SmMje9XC%2FSZxKQxE2b3TxSLqZUtB3ZjuANyNS%2BgkvuAa153IgTjEcZVfa0v9QE9sJ3VzhTMFAVgzP45Pq3HgCbaJeC3cHS%2FaK5EUKGB%2BXixoO0iqHR56Am%2FBFxOC6cxJnZW8rnHjJ0yw1H7iUsv9bZ19jd6yj43RXb%2FeStyOUi98GVhOvadyMotzVtrlH1lMq0yjLPiFy4Yu0%2FGLeTazJxz6p%2BZH4ci64ubVP6f1yd5Lwj493UzV9W1WjP2MIElR45jp2JXskfiUj8iLJK8Ku0pcuMuTCatOb4m%2Bezo5OGl60NnxeyUQGxx3XEPHxculr6GZ7eAqdjRNBK%2FsfjznTkeoFVGjZL5ZI%2F9Z6RHE9eV4HcedysKQ5sqPC0w9uCZQN3zXnKWJNWBV%2BphMk%3D&session_key=mVufdCh8Do0KCjJyE%2BCX1g%3D%3D&iv=xbuPGXvYslYXtcqqCqWHAw%3D%3D
+[运行时间：0.021297s] [吞吐率：46.95req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'iHVwDHqwZntMOjVyiIb9t73khwjyzfRuNvkMyFWWUfVGDV+UsRhqO8e5ECyEkYTvR09hcit4L9TpvkP+Nh1P2Xyab8SmMje9XC/SZxKQxE2b3TxSLqZUtB3ZjuANyNS+gkvuAa153IgTjEcZVfa0v9QE9sJ3VzhTMFAVgzP45Pq3HgCbaJeC3cHS/aK5EUKGB+XixoO0iqHR56Am/BFxOC6cxJnZW8rnHjJ0yw1H7iUsv9bZ19jd6yj43RXb/eStyOUi98GVhOvadyMotzVtrlH1lMq0yjLPiFy4Yu0/GLeTazJxz6p+ZH4ci64ubVP6f1yd5Lwj493UzV9W1WjP2MIElR45jp2JXskfiUj8iLJK8Ku0pcuMuTCatOb4m+ezo5OGl60NnxeyUQGxx3XEPHxculr6GZ7eAqdjRNBK/sfjznTkeoFVGjZL5ZI/9Z6RHE9eV4HcedysKQ5sqPC0w9uCZQN3zXnKWJNWBV+phMk=',
+  'session_key' => 'mVufdCh8Do0KCjJyE+CX1g==',
+  'iv' => 'xbuPGXvYslYXtcqqCqWHAw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:59:29+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=071qvVXq0EGpkl1ANA0r0kL3Yq0qvVXt
+[运行时间：0.173629s] [吞吐率：5.76req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '071qvVXq0EGpkl1ANA0r0kL3Yq0qvVXt',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:59:29+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=rk56esa9xnYoHL7IahHDb%2BwCzAHq2ewvHWBHxanFEx26lcOT9pF6kyZKS5WDKEl751TK2nYocR1kQhEUs7ooPHQ1l7gPptj5eaYmcWhRpcUiFaP7yKY%2B6HnqwLuLuGIfqZyvgUvIhs1UPQf8fhP5lXC721yZWqarQgA0cEE%2BwP4gTVr3nmzoex6FJSuZz3X9z8kvOZBc4VBbGOOGu0%2B0iiDipm5dpzwly8cnrkOI9xXIuX5Iyw9IgTAP5iBphypAqZLcG47XC2o7rqWihk4XMk2fhT62CkuF6kgGj2%2Faevjv1RFltqkIvJdtTctq2Mzzgb6LHZQ2kQEZcAg3o6EiFTB6IHTFeT9B13sZL3U5ht%2FjU%2FAiRI%2BhWtGiU0F49WmH5Twsx49k2QNkSOpDNEKhfw4tVUrzP2Ys5Fl7I3S5Pvi9cVk7RNcy5HfHfggzaPWlFZkW7LrMd%2B%2BAbh26Z8nRZuhSuU%2BWlzMtUI67OvgP%2BSA%3D&session_key=mVufdCh8Do0KCjJyE%2BCX1g%3D%3D&iv=JTAgqLLufCH63z2iYfmJGw%3D%3D
+[运行时间：0.014711s] [吞吐率：67.98req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'rk56esa9xnYoHL7IahHDb+wCzAHq2ewvHWBHxanFEx26lcOT9pF6kyZKS5WDKEl751TK2nYocR1kQhEUs7ooPHQ1l7gPptj5eaYmcWhRpcUiFaP7yKY+6HnqwLuLuGIfqZyvgUvIhs1UPQf8fhP5lXC721yZWqarQgA0cEE+wP4gTVr3nmzoex6FJSuZz3X9z8kvOZBc4VBbGOOGu0+0iiDipm5dpzwly8cnrkOI9xXIuX5Iyw9IgTAP5iBphypAqZLcG47XC2o7rqWihk4XMk2fhT62CkuF6kgGj2/aevjv1RFltqkIvJdtTctq2Mzzgb6LHZQ2kQEZcAg3o6EiFTB6IHTFeT9B13sZL3U5ht/jU/AiRI+hWtGiU0F49WmH5Twsx49k2QNkSOpDNEKhfw4tVUrzP2Ys5Fl7I3S5Pvi9cVk7RNcy5HfHfggzaPWlFZkW7LrMd++Abh26Z8nRZuhSuU+WlzMtUI67OvgP+SA=',
+  'session_key' => 'mVufdCh8Do0KCjJyE+CX1g==',
+  'iv' => 'JTAgqLLufCH63z2iYfmJGw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:59:47+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=021fbSlw0x3cUd1RuGiw0h3fmw0fbSlh
+[运行时间：0.161286s] [吞吐率：6.20req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '021fbSlw0x3cUd1RuGiw0h3fmw0fbSlh',
+)
+---------------------------------------------------------------
+
+[2020-04-25T17:59:47+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=X5yZG%2BkD%2FM1IdlTyccblvkNfaXLfqDG3f4CPiqWgwZpoZ4ManSg47dS%2Ft6XvjdxUu2nc6X4tfCYIj7Kmr2%2BoKa%2FjhHvlnpuCM2rn9nnL8B7bTk9%2FMnlMEy2YqXIjWslpH3qWGR9c%2BjMLmDIbfJ5b8e%2F2P0qhTPSLZSFuy6NqeyYdWhotb8JFzwg7dok1QWWaw%2FCOfx4dsL7FuzhWzdk7EOA52my5psP4zTfkmHWWMt6mbW7LWUSi%2FzKxAzKQrVszuNH0207tAqDjphopaRG4hyFeGaynz5AW9HMnGG3Isef5zQgvpBM%2F9RSiU6Qf3ZXIlEQ4FfzhmXcFVOnsuMMcSeTqTEd0BfqcgZmO%2F%2FSDlVQIHqr1ThM6JJfWh3YrCAeuEWnvtlSYv9vhTUQm1UQaqAJhRvEHI1o9CGEXN8Qsal99j7JpnOBFkI2s4aoMzn%2Fk3JdYfKxkhtMvUpGQ6eQD1wvDPVhqy4RVWGi%2FnYzxFG8%3D&session_key=mVufdCh8Do0KCjJyE%2BCX1g%3D%3D&iv=7P4662BtmF%2BHjMYXrjhTZw%3D%3D
+[运行时间：0.013951s] [吞吐率：71.68req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'X5yZG+kD/M1IdlTyccblvkNfaXLfqDG3f4CPiqWgwZpoZ4ManSg47dS/t6XvjdxUu2nc6X4tfCYIj7Kmr2+oKa/jhHvlnpuCM2rn9nnL8B7bTk9/MnlMEy2YqXIjWslpH3qWGR9c+jMLmDIbfJ5b8e/2P0qhTPSLZSFuy6NqeyYdWhotb8JFzwg7dok1QWWaw/COfx4dsL7FuzhWzdk7EOA52my5psP4zTfkmHWWMt6mbW7LWUSi/zKxAzKQrVszuNH0207tAqDjphopaRG4hyFeGaynz5AW9HMnGG3Isef5zQgvpBM/9RSiU6Qf3ZXIlEQ4FfzhmXcFVOnsuMMcSeTqTEd0BfqcgZmO//SDlVQIHqr1ThM6JJfWh3YrCAeuEWnvtlSYv9vhTUQm1UQaqAJhRvEHI1o9CGEXN8Qsal99j7JpnOBFkI2s4aoMzn/k3JdYfKxkhtMvUpGQ6eQD1wvDPVhqy4RVWGi/nYzxFG8=',
+  'session_key' => 'mVufdCh8Do0KCjJyE+CX1g==',
+  'iv' => '7P4662BtmF+HjMYXrjhTZw==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T18:00:54+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=071Ij6iN0m1RK92kyKjN08eNhN0Ij6iC
+[运行时间：0.175775s] [吞吐率：5.69req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '071Ij6iN0m1RK92kyKjN08eNhN0Ij6iC',
+)
+---------------------------------------------------------------
+
+[2020-04-25T18:00:54+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=Ottz26Qx4WgMrBDf0iGKQfBNj%2FaOcKIdESB0HKDos1B%2BJK0%2BWFTBRcV0kYrI7ZFTRQ7KAs6Np7eRF1q1t1cUCjDaDRjlqFqfc96SEAC48vwjVppbBz6kYLDBG3MZkpSN7468D6ztVQfOYaqTmh4WH6ApqlNSDnk6oA3hXPzGHXLNYgx4kY1Cb1VQS4oBjbCa1RrXCzotZXiyAepuecTV34yD9NzgifE9I0DynowDiZfP0BDGdnei4c%2BGNDzqV6nW38ZZNT449ap2CyggjMjZ%2BqucIztLBng3YwyMsls9vgOTwVmCeoKt3YrVNpJ5sVo9T8Te%2BW%2Brv9xmSAZPDMrBEG9LCuqbfeC2YR8wyMzBuEemTYEuuZuddaV771jsMXJS9Ll%2BPu1rkZSEVMisBmm8lOOuzBeo90sqNcPEqwDMRXKSQ7XL6s%2FNpx50blpyDfmML%2BNqynE4ig5rihXG%2FGMwvKKeIfXz%2BO1Onlh4pya5vKE%3D&session_key=QB7gLB1l5ngFb3Fve9zcbg%3D%3D&iv=Ajuts21TAKDFkPZD6VRP9g%3D%3D
+[运行时间：0.014950s] [吞吐率：66.89req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => 'Ottz26Qx4WgMrBDf0iGKQfBNj/aOcKIdESB0HKDos1B+JK0+WFTBRcV0kYrI7ZFTRQ7KAs6Np7eRF1q1t1cUCjDaDRjlqFqfc96SEAC48vwjVppbBz6kYLDBG3MZkpSN7468D6ztVQfOYaqTmh4WH6ApqlNSDnk6oA3hXPzGHXLNYgx4kY1Cb1VQS4oBjbCa1RrXCzotZXiyAepuecTV34yD9NzgifE9I0DynowDiZfP0BDGdnei4c+GNDzqV6nW38ZZNT449ap2CyggjMjZ+qucIztLBng3YwyMsls9vgOTwVmCeoKt3YrVNpJ5sVo9T8Te+W+rv9xmSAZPDMrBEG9LCuqbfeC2YR8wyMzBuEemTYEuuZuddaV771jsMXJS9Ll+Pu1rkZSEVMisBmm8lOOuzBeo90sqNcPEqwDMRXKSQ7XL6s/Npx50blpyDfmML+NqynE4ig5rihXG/GMwvKKeIfXz+O1Onlh4pya5vKE=',
+  'session_key' => 'QB7gLB1l5ngFb3Fve9zcbg==',
+  'iv' => 'Ajuts21TAKDFkPZD6VRP9g==',
+)
+---------------------------------------------------------------
+
+[2020-04-25T18:02:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo?code=061mAeFE1r6Is50AQYEE1NN1FE1mAeFx
+[运行时间：0.204515s] [吞吐率：4.89req/s] [内存消耗：1,693.53kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061mAeFE1r6Is50AQYEE1NN1FE1mAeFx',
+)
+---------------------------------------------------------------
+
+[2020-04-25T18:02:25+08:00] 125.34.4.9 GET pt.mbacms.com/api/Wx_login/mp_userinfo_notlogin?encryptedData=4Zfp%2FFYQAt3bocEyJ5T8nBHhRZpf9raGmidz8o3fAEMdWq9S6cNNdaaN%2FKO%2Fio%2F%2FTFD9zzb%2F7Xcm8vEgoyHgfgz%2Fk2jj%2FpImrIQfSeAd%2FF4oAHZUCEd8j8E%2Fldikdg01JMVTbCcVRtQs2UOJPrjmHWb3mGNx6%2B2mIlLykOpDIouhI8aL4ORBRrdr3F%2FzgMpcchBFEg1DoNKVSMYxLf1e%2Bk4CZhRHOqBq%2B8p5M1lho52cZ29T%2FxUKh7KR5K2xN%2BShtQo24atXZ%2BF5bTUSAeQ5O85fxaB3xNAg9k2RQa8O7IxbbPpudSNKd1oRE7zB%2Fc5Auu9cdZgANdiS1Lsep4a4CCJ893HHURPpab%2BELcoVrcZzGQVVmZnPoHuDI1thQYO1DWTg2VPBCzNJjuyHvrYcgHWw6kdOr9vQHJJr6CLzcjIXwdcdzM0yLhW6v4vQ5XG1j2GxY0z5GnJrHoIP%2FT610xgiLoTTEbC5nMj4%2FoouvwA%3D&session_key=QB7gLB1l5ngFb3Fve9zcbg%3D%3D&iv=kIIQ1xHXt3J7K9ss6EQ8DQ%3D%3D
+[运行时间：0.014108s] [吞吐率：70.88req/s] [内存消耗：1,695.60kb] [文件加载：64]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'https://servicewechat.com/wx6da3c72afe9a3244/devtools/page-frame.html',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Mobile/14C92 Safari/601.1 wechatdevtools/1.02.1911180 MicroMessenger/6.7.3 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'pt.mbacms.com',
+  'content-type' => 'application/json',
+)
+[ info ] [ PARAM ] array (
+  'encryptedData' => '4Zfp/FYQAt3bocEyJ5T8nBHhRZpf9raGmidz8o3fAEMdWq9S6cNNdaaN/KO/io//TFD9zzb/7Xcm8vEgoyHgfgz/k2jj/pImrIQfSeAd/F4oAHZUCEd8j8E/ldikdg01JMVTbCcVRtQs2UOJPrjmHWb3mGNx6+2mIlLykOpDIouhI8aL4ORBRrdr3F/zgMpcchBFEg1DoNKVSMYxLf1e+k4CZhRHOqBq+8p5M1lho52cZ29T/xUKh7KR5K2xN+ShtQo24atXZ+F5bTUSAeQ5O85fxaB3xNAg9k2RQa8O7IxbbPpudSNKd1oRE7zB/c5Auu9cdZgANdiS1Lsep4a4CCJ893HHURPpab+ELcoVrcZzGQVVmZnPoHuDI1thQYO1DWTg2VPBCzNJjuyHvrYcgHWw6kdOr9vQHJJr6CLzcjIXwdcdzM0yLhW6v4vQ5XG1j2GxY0z5GnJrHoIP/T610xgiLoTTEbC5nMj4/oouvwA=',
+  'session_key' => 'QB7gLB1l5ngFb3Fve9zcbg==',
+  'iv' => 'kIIQ1xHXt3J7K9ss6EQ8DQ==',
+)

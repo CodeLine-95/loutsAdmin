@@ -1,0 +1,120 @@
+{extend name='pub/modal'}
+{block name='content'}
+<style type="text/css" media="all">
+	.layui-image{
+		display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px solid #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.layui-image img{
+	    height: 100%;
+	    display: inline-block;
+	    vertical-align: top;
+	}
+	
+	.fc-files {
+	    display: inline-block;
+	    width: 58px;
+	    height: 58px;
+	    cursor: pointer;
+	    text-align: center;
+	    line-height: 58px;
+	    border: 1px dashed #c0ccda;
+	    border-radius: 4px;
+	    overflow: hidden;
+	    background: #fff;
+	    position: relative;
+	    box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+	    margin-right: 4px;
+	    box-sizing: border-box;
+	}
+	.ivu-icon {
+	    display: inline-block;
+	    font-family: Ionicons;
+	    speak: none;
+	    font-style: normal;
+	    font-weight: 400;
+	    font-variant: normal;
+	    text-transform: none;
+	    text-rendering: auto;
+	    line-height: 1;
+	    -webkit-font-smoothing: antialiased;
+	    -moz-osx-font-smoothing: grayscale;
+	}
+</style>
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-add-form" action="add" method="post">
+        	<div class="layui-form-item">
+                <label class="layui-form-label">企业单位</label>
+                <div class="layui-input-block">
+                    <select name="enter_id" id="enter_id" lay-verify="required" class="layui-select" lay-search>
+	                    {foreach $enter as $e}
+	                    <option value="{$e.id}">{$e.enter_name}</option>
+	                   {/foreach}
+	                </select>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">报修人</label>
+                <div class="layui-input-block">
+                    <select name="repair_user_id" id="repair_user_id" lay-verify="required" class="layui-select" lay-search>
+	                    {foreach $member as $e}
+	                    <option value="{$e.id}">{$e.member_name}</option>
+	                   {/foreach}
+	                </select>
+                </div>
+            </div>
+            
+            <hr>
+            
+            <div class="layui-form-item">
+	            <label class="layui-form-label">电话</label>
+                <div class="layui-input-block">
+                    <input type="text" name="repair_tel" lay-verify="required|phone" autocomplete="off" class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">类型</label>
+                <div class="layui-input-block">
+                    <input type="radio" name="repair_type" value="0" title="宽带电话" checked="">
+                    <input type="radio" name="repair_type" value="1" title="电力系统">
+                    <input type="radio" name="repair_type" value="2" title="水力系统">
+                    <input type="radio" name="repair_type" value="3" title="燃气系统">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+	            <label class="layui-form-label">备注</label>
+                <div class="layui-input-block">
+                    <textarea name="repair_remark" class="layui-textarea"></textarea>
+                </div>
+            </div>
+            
+            <hr>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{/block}
+
+
+
+

@@ -1,0 +1,34 @@
+---------------------------------------------------------------
+
+[2020-04-19T15:26:57+08:00] 47.101.193.167 GET pt.mbacms.com/
+[运行时间：0.015462s] [吞吐率：64.67req/s] [内存消耗：1,873.94kb] [文件加载：68]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-19T15:26:57+08:00] 47.101.193.167 GET pt.mbacms.com/index/login/login.html
+[运行时间：0.023121s] [吞吐率：43.25req/s] [内存消耗：2,627.14kb] [文件加载：71]
+[ info ] [ LANG ] /www/wwwroot/pt.mbacms.com/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'pt.mbacms.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/pt.mbacms.com/application/index/view/login/login.html [ array (
+  0 => 'site_config',
+) ]

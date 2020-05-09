@@ -1,0 +1,83 @@
+{extend name='pub/modal'}
+{block name='content'}
+<style type="text/css" media="screen">
+	.layui-table-cell{
+		height: auto !important;
+	}
+	h4{
+		font-weight: bold;
+	}
+</style>
+<div class="layui-fluid layui-anim layui-anim-upbit" >
+    <div class="layui-row layui-col-space15">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-body ">
+                    <form class="layui-form layui-col-space8" id="ajaxForm" method="get">
+                    	<div class="layui-inline layui-show-xs-block">
+                            <input class="layui-input" autocomplete="off" placeholder="开始日" name="car_start_time" id="start"></div>
+                        <div class="layui-inline layui-show-xs-block">
+                            <input class="layui-input" autocomplete="off" placeholder="截止日" name="car_end_time" id="end"></div>
+                        <div class="layui-inline layui-show-xs-block">
+                            <input type="text" name="car_name" placeholder="车牌号/车位号/客户名称/客户单位" style="width:300px;" autocomplete="off" class="layui-input"></div>
+                        <div class="layui-inline layui-show-xs-block">
+                            <a class="layui-btn lotus-search-btn" lay-filter="search">
+                                <i class="layui-icon">&#xe615;</i></a>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="layui-card-body layui-table-body layui-table-main">
+                    <table id="lotus-table"  lay-data="{page:true,limits:[10,20,30,40,50,60,70,80,90,100,200,300,400,500],loading:true,toolbar:'#toolbarDemo',url:'listJson',hash:''}"  class="layui-table layui-hide" lay-filter="lotus-table">
+                        <thead>
+                        <tr>
+                            <th lay-data="{field:'id',sort: true,align:'center',width:'10%'}">车辆编号</th>
+                            <th lay-data="{field:'car_pic',align:'center',width:'12%'}">车辆图片</th>
+                            <th lay-data="{field:'car_name',align:'left',width:'9%',templet:'#car_name'}">车辆名称</th>
+                            <th lay-data="{field:'car_username',align:'center',width:'8%'}">车主名称</th>
+                            <th lay-data="{field:'car_tel',align:'center',width:'11%'}">车主电话</th>
+                            <th lay-data="{field:'enter_name',align:'center'}">所在单位</th>
+                            <th lay-data="{field:'car_start_time',align:'center',templet:'#car_start_time',width:'9%'}">启用时间</th>
+                            <th lay-data="{field:'car_end_time',align:'center',templet:'#car_end_time',width:'9%'}">到期时间</th>
+                            <th lay-data="{field:'id',templet:'#actionTpl',width:'15%',fixed:'right'}">操作</th>
+                        </tr>
+                        </thead>
+                    </table>
+                    
+                    <script type="text/html" id="toolbarDemo">
+                        <button class="layui-btn layui-btn-sm" onclick="xadmin.open('添加车辆','add.html',900,650)">添加车辆</button>
+                    </script>
+
+                    <script type="text/html" id="car_name">
+                        <h4>{{d.car_name}}</h4>
+                        <p>{{d.car_no }}</p>
+                        <p>{{d.car_parking}}</p>
+					</script>
+                    <script type="text/html" id="car_start_time">
+                        {{ layui.util.toDateString(d.car_start_time * 1000,"yyyy-MM-dd") }}
+                    </script>
+                    <script type="text/html" id="car_end_time">
+                        {{ layui.util.toDateString(d.car_end_time * 1000,"yyyy-MM-dd") }}
+                    </script>
+                    <script type="text/html" id="actionTpl">
+                    	<button onclick="xadmin.open('查看车辆: {{d.car_name}}','show.html?id={{d.id}}',900,650)" class="layui-btn layui-btn-xs">查看</button>
+                        <button onclick="xadmin.open('编辑车辆: {{d.car_name}}','edit.html?id={{d.id}}',900,650)" class="layui-btn layui-btn-xs">编辑</button>
+                        <button onclick="lotus.del('{{d.id}}','0','/admin/estate.car/del')" class="layui-btn layui-btn-danger layui-btn-xs">删除</button>
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('.lotus-search-btn').on('click',function () {
+        var where = {
+            car_name:$('input[name=car_name]').val(),
+            car_start_time:$('input[name=car_start_time]').val(),
+            car_end_time:$('input[name=car_end_time]').val(),
+        };
+        lotus.table(where);
+    })
+</script>
+
+{/block}

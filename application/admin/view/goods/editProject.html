@@ -1,0 +1,83 @@
+{extend name='pub/modal'}
+{block name='content'}
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" lay-filter="lotus-form-filter" id="lotus-edit-form" action="editProject" method="post">
+	        
+	        <input type="hidden" name="id">
+            <div class="layui-form-item">
+                <label class="layui-form-label">工程名称</label>
+                <div class="layui-input-block">
+                    <input type="text"  name="project_name" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">负责人</label>
+                <div class="layui-input-block">
+	                <select name="project_director" class="layui-select" lay-search>
+		                {foreach $member as $m}
+		                <option value="{$m.id}">{$m.member_name}</option>
+		                {/foreach}
+	                </select>
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">电话</label>
+                <div class="layui-input-block">
+                    <input type="text"  name="project_phone" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">详细地址</label>
+                <div class="layui-input-block">
+                    <input type="text"  name="project_address" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">项目概况</label>
+                <div class="layui-input-block">
+                    <textarea name="comment" class="layui-textarea"></textarea>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">
+                    是否启用
+                </label>
+                <div class="layui-input-block">
+                    <select lay-filter="aihao" name="status">
+                        <option value="1">启用</option>
+                        <option value="0">禁止</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button style="margin-left: 30%" class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+<script>
+    var lotusFormVal = {
+        'id':"{$data.id}",
+        "project_name":"{$data.project_name}",
+        'project_director':"{$data.project_director}",
+        'project_phone':"{$data.project_phone}",
+        'project_address': "{$data.project_address}",
+        'comment':"{$data.comment}",
+        'status':"{$data.status}"
+    }
+    lotus.editForm(lotusFormVal);
+</script>
+{/block}
+
+
+
+

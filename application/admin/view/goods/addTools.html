@@ -1,0 +1,97 @@
+{extend name='pub/modal'}
+{block name='content'}
+<div class="layui-fluid lotus-form">
+    <div class="layui-row">
+        <form class="layui-form layui-form-pane" id="lotus-add-form" action="addTools" method="post">
+	        <div class="layui-form-item">
+                <label class="layui-form-label">名称</label>
+                <div class="layui-input-block">
+                    <input type="text" name="tools_name" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+	        <div class="layui-form-item">
+                <label class="layui-form-label">地上车位</label>
+                <div class="layui-input-block">
+                    <input type="number" name="up_car_list" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">地下车位</label>
+                <div class="layui-input-block">
+                    <input type="number" name="down_car_list" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">电费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="electricity_fee" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">度/元</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">水费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="water_rate" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">元/吨</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">气费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="gas_bill" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">元/立方</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">暖气费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="heating_fee" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">元/平米/季（层高超4米,按双倍收取）</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">冷气费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="air_fee" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">元/平米/四个月</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">可变月份</label>
+                <div class="layui-input-inline">
+                    <input type="number" name="month_num" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux">仅供冷气/暖气使用</div>
+            </div>
+            
+            <div class="layui-form-item">
+                <label class="layui-form-label">物业费</label>
+                <div class="layui-input-inline">
+                    <input type="number" step="0.01" name="property_fee" lay-verify="required" autocomplete="off"  class="layui-input">
+                </div>
+                <div class="layui-form-mid layui-word-aux"></div>
+            </div>
+
+
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button style="margin-left: 30%" class="layui-btn" lay-submit="" lay-filter="toSubmit">提交</button>
+                    <button id="reset" type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+{/block}
+
+
+
+
